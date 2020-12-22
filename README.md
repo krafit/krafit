@@ -15,11 +15,11 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 ## Recent Writing 📚
 
 <!-- BLOG-POST-LIST:START -->
-- [WordPress News #296 / Danke für 2020](https://feed.wpletter.de/link/14399/14174255/296)
 - [Wie viel Besucherstatistik muss wirklich sein?](https://krautpress.de/2020/wie-viel-besucherstatistik/?planetwp=true)
 - [„State of the Word“ – WordPress im Jahr 2020](https://krautpress.de/2020/state-of-the-word-2/?planetwp=true)
 - [Plugins richtig deinstallieren](https://krautpress.de/2020/plugins-richtig-deinstallieren/?planetwp=true)
 - [Gravatar, Kommentare und der liebe Datenschutz](https://krautpress.de/2020/gravatar-datenschutz/?planetwp=true)
+- [Warum für ein Plugin bezahlen?](https://krautpress.de/2020/warum-fuer-ein-plugin-bezahlen/?planetwp=true)
 <!-- BLOG-POST-LIST:END -->
 
 
