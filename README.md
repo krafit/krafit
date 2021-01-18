@@ -15,11 +15,11 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 ## Recent Writing 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [WordPress News #298 / Frontend-Development, Eingeschränkte Bearbeitung, Anwendungspasswörter](https://feed.wpletter.de/link/14399/14225139/298)
 - [WordPress News #297 / Automattic, Plugins, Live-Events und Block-Basierte Themes](https://feed.wpletter.de/link/14399/14208113/297)
 - [Ich mache was Neues](https://simon.blog/2021/ich-mache-was-neues/)
 - [Wie viele WordPress-Plugins sind zu viele Plugins?](https://krautpress.de/2021/zu-viele-plugins/?planetwp=true)
 - [WordPress im Jahr 2021](https://krautpress.de/2020/wordpress-in-2021/?planetwp=true)
-- [Die wp-config.php-Datei](https://krautpress.de/2020/wpconfig-datei/?planetwp=true)
 <!-- BLOG-POST-LIST:END -->
 
 
