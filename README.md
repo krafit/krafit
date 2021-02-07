@@ -16,10 +16,10 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 
 <!-- BLOG-POST-LIST:START -->
 - [Hat WordPress ein Performance-Problem?](https://krautpress.de/2021/wordpress-performance-probleme/?planetwp=true)
-- [Ich mache was Neues](https://simon.blog/2021/ich-mache-was-neues/)
-- [Wie viele WordPress-Plugins sind zu viele Plugins?](https://krautpress.de/2021/zu-viele-plugins/?planetwp=true)
-- [WordPress im Jahr 2021](https://krautpress.de/2020/wordpress-in-2021/?planetwp=true)
-- [Die wp-config.php-Datei](https://krautpress.de/2020/wpconfig-datei/?planetwp=true)
+- [WordPress News #300 / XML-RPC, der Plugin-Markt, Woo-Meetup, Embeds](https://feed.wpletter.de/link/14399/14255296/300)
+- [WordPress News #299 / WordPress-Export, Pläne für 2021, die Zukunft und Fehlersuche](https://feed.wpletter.de/link/14399/14240261/299)
+- [WordPress News #298 / Frontend-Development, Eingeschränkte Bearbeitung, Anwendungspasswörter](https://feed.wpletter.de/link/14399/14225139/298)
+- [WordPress News #297 / Automattic, Plugins, Live-Events und Block-Basierte Themes](https://feed.wpletter.de/link/14399/14208113/297)
 <!-- BLOG-POST-LIST:END -->
 
 
