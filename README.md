@@ -15,11 +15,11 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 ## Recent Writing 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [WordPress News #304 / Hoster-Kontroverse, Update-Plugins und Plugin-Updates](https://feed.wpletter.de/link/14399/14322572/304)
 - [WordPress News #303 / Instagram-Alternative, Update für Mark Posts, WordPress und Docker](https://feed.wpletter.de/link/14399/14308114/303)
 - [WordPress News #301 / Performance, Kosten, Werbung und Gutenberg für kleine Websites](https://feed.wpletter.de/link/14399/14270096/301)
 - [Hat WordPress ein Performance-Problem?](https://krautpress.de/2021/wordpress-performance-probleme/?planetwp=true)
 - [WordPress News #300 / XML-RPC, der Plugin-Markt, Woo-Meetup, Embeds](https://feed.wpletter.de/link/14399/14255296/300)
-- [WordPress News #299 / WordPress-Export, Pläne für 2021, die Zukunft und Fehlersuche](https://feed.wpletter.de/link/14399/14240261/299)
 <!-- BLOG-POST-LIST:END -->
 
 
