@@ -1,12 +1,12 @@
-👋 I'm a WordPress Developer, Strategist and Climate Acticivist based in Germany. 🇪🇺
+👋 I'm a WordPress Developer, Strategist, and Climate Activist based in Germany. 🇪🇺
 
-If you're from Germany and interested in WordPress, you might know my weekly newsletter [WP Letter](https://wpletter.de/). Feel free to get in touch or meet me at a Meetup or WordCamp somewhere (well not now, obviously...).
+If you're from Germany and interested in WordPress, you might know my weekly newsletter [WP Letter](https://wpletter.de/). Feel free to get in touch or meet me at a Meetup or WordCamp somewhere (well, not now, obviously...).
 
 
 ## Most recent work 👷‍♂️
 
 - 👨‍💻 [Pluginkollektiv](https://github.com/pluginkollektiv) – Privacy first WordPress Plugins
-- 🖌️ [KrautPress](https://krautpress.de) – A german WordPress Magazine
+- 🖌️ [KrautPress](https://krautpress.de) – A German WordPress Magazine
 - 🌱 [Epiphyt](https://epiph.yt) – Nifty WordPress Plugin-Shop
 
 **[See the more comprehensive list &rarr;](https://simonkraft.com/what-i-do)**
