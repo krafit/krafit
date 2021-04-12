@@ -15,11 +15,11 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 ## Recent Writing 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [WordPress News #308 / Das Ende von Calypso, Barrierefreiheit und COVID-Testzentren](https://feed.wpletter.de/link/14399/14406995/308)
 - [WordPress News #307 / Kaputte Datenbanken, eingebettete Tweets, Trenner und Migration](https://feed.wpletter.de/link/14399/14382290/307)
 - [Weniger miese Twitter-Embeds bitte!](https://simon.blog/2021/miese-twitter-embeds/)
 - [WordPress News #306 / System-Fonts, WordPress‘ Finanzen und die Sicherheit von Elementor](https://feed.wpletter.de/link/14399/14366941/306)
 - [A quick guide to setting up the Proteo theme](https://yithemes.com/blog/yit-news/quick-guide-to-setting-up-the-proteo-theme/)
-- [WordPress News #305 / WordPress 5.7, CSS-Werkzeuge und ein Gutenberg-Problem](https://feed.wpletter.de/link/14399/14353846/305)
 <!-- BLOG-POST-LIST:END -->
 
 
