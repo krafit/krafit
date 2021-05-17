@@ -16,10 +16,10 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 
 <!-- BLOG-POST-LIST:START -->
 - [Crew member Highlight; Meet Tania, Canarian through and through in everything she loves the most](https://yithemes.com/blog/team/tania-gonzalez/)
-- [Weniger miese Twitter-Embeds bitte!](https://simon.blog/2021/miese-twitter-embeds/)
-- [A quick guide to setting up the Proteo theme](https://yithemes.com/blog/yit-news/quick-guide-to-setting-up-the-proteo-theme/)
-- [Hat WordPress ein Performance-Problem?](https://krautpress.de/2021/wordpress-performance-probleme/?planetwp=true)
-- [Ich mache was Neues](https://simon.blog/2021/ich-mache-was-neues/)
+- [WordPress News #311 / WordPress‘ neue Suchmaschine, CSS-Variablen und Migrate DB Pro 2.0](https://feed.wpletter.de/link/14399/14456105/311)
+- [WordPress News #310 / WP Rocket wurde verkauft, Xdebug und die DOMDocument-Klasse](https://feed.wpletter.de/link/14399/14439284/310)
+- [WordPress News #309 / Widerstand gegen Googles FLoC, Abstandshalter, Custom-CSS als Datei](https://feed.wpletter.de/link/14399/14420384/309)
+- [WordPress News #308 / Das Ende von Calypso, Barrierefreiheit und COVID-Testzentren](https://feed.wpletter.de/link/14399/14406995/308)
 <!-- BLOG-POST-LIST:END -->
 
 
