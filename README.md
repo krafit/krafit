@@ -16,10 +16,10 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 
 <!-- BLOG-POST-LIST:START -->
 - [WordPress News #312 / IE11 rausgeworfen, keine Angst vor Updates, Full-Site-Editing und Yoast Care Fund](https://feed.wpletter.de/link/14399/14497026/312)
-- [Crew member Highlight; Meet Tania, Canarian through and through in everything she loves the most](https://yithemes.com/blog/team/tania-gonzalez/)
 - [WordPress News #311 / WordPress‘ neue Suchmaschine, CSS-Variablen und Migrate DB Pro 2.0](https://feed.wpletter.de/link/14399/14456105/311)
 - [WordPress News #310 / WP Rocket wurde verkauft, Xdebug und die DOMDocument-Klasse](https://feed.wpletter.de/link/14399/14439284/310)
 - [WordPress News #309 / Widerstand gegen Googles FLoC, Abstandshalter, Custom-CSS als Datei](https://feed.wpletter.de/link/14399/14420384/309)
+- [WordPress News #308 / Das Ende von Calypso, Barrierefreiheit und COVID-Testzentren](https://feed.wpletter.de/link/14399/14406995/308)
 <!-- BLOG-POST-LIST:END -->
 
 
