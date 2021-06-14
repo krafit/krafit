@@ -15,11 +15,11 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 ## Recent Writing 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [WordPress News #314 / Marktanteile, Query-Block und Nachhaltigkeit](https://feed.wpletter.de/link/14399/14544929/314)
 - [WordPress News #313 / WordCamp Europe, ACF Verkauf, Favicons und JavaScript](https://feed.wpletter.de/link/14399/14529607/313)
 - [WordPress News #312 / IE11 rausgeworfen, keine Angst vor Updates, Full-Site-Editing und Yoast Care Fund](https://feed.wpletter.de/link/14399/14497026/312)
 - [WordPress News #311 / WordPress‘ neue Suchmaschine, CSS-Variablen und Migrate DB Pro 2.0](https://feed.wpletter.de/link/14399/14456105/311)
 - [WordPress News #310 / WP Rocket wurde verkauft, Xdebug und die DOMDocument-Klasse](https://feed.wpletter.de/link/14399/14439284/310)
-- [WordPress News #309 / Widerstand gegen Googles FLoC, Abstandshalter, Custom-CSS als Datei](https://feed.wpletter.de/link/14399/14420384/309)
 <!-- BLOG-POST-LIST:END -->
 
 
