@@ -15,11 +15,11 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 ## Recent Writing 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [WordPress News #318 / 318](https://feed.wpletter.de/link/14399/14686143/318)
 - [WordPress News #317 / WordPress 5.8, Podcast-App und kritische Lücke in WooCommerce](https://feed.wpletter.de/link/14399/14625668/317)
 - [WordPress News #316 / WP als Static-Site-Generator, bessere Beitragstitel und BackWPUp](https://feed.wpletter.de/link/14399/14595102/316)
 - [WordPress News #315 / Pagebuilder oder Block-Editor? WP nicht beste Wahl? Mehr WordPress-Jobs!](https://feed.wpletter.de/link/14399/14581292/315)
 - [WordPress News #314 / Marktanteile, Query-Block und Nachhaltigkeit](https://feed.wpletter.de/link/14399/14544929/314)
-- [WordPress News #313 / WordCamp Europe, ACF Verkauf, Favicons und JavaScript](https://feed.wpletter.de/link/14399/14529607/313)
 <!-- BLOG-POST-LIST:END -->
 
 
