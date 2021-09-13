@@ -15,11 +15,11 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 ## Recent Writing 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [WordPress News #320 / WP 5.9 Release-Termin, 5 mio mal Antispam Bee, Slider und der Gutenberg-Dialog](https://feed.wpletter.de/link/14399/14747560/320)
 - [WordPress News #319 / Classic Editor, Klimawandel und Namensrechte am WP-Kürzel](https://feed.wpletter.de/link/14399/14714212/319)
 - [WordPress News #318 / Yoast verkauft, Podcast zu Hosting, WP 5.9 Roadmap](https://feed.wpletter.de/link/14399/14686143/318)
 - [WordPress News #317 / WordPress 5.8, Podcast-App und kritische Lücke in WooCommerce](https://feed.wpletter.de/link/14399/14625668/317)
 - [WordPress News #316 / WP als Static-Site-Generator, bessere Beitragstitel und BackWPUp](https://feed.wpletter.de/link/14399/14595102/316)
-- [WordPress News #315 / Pagebuilder oder Block-Editor? WP nicht beste Wahl? Mehr WordPress-Jobs!](https://feed.wpletter.de/link/14399/14581292/315)
 <!-- BLOG-POST-LIST:END -->
 
 
