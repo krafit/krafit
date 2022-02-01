@@ -16,10 +16,10 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 
 <!-- BLOG-POST-LIST:START -->
 - [WordPress News #323 / Performance in WP 5.9, Omikron und WordCamps, 14 Jahre WordPress](https://feed.wpletter.de/link/14399/14997788/323)
-- [14 Jahre WordPress](https://simon.blog/2022/14-jahre-wordpress/)
 - [WordPress News #322 / Der Hosting-Adventskalender und WordPress in 2022](https://feed.wpletter.de/link/14399/14985501/322)
 - [WordPress News #321 / Go für WP 5.9, die Zukunft des Customizers und eine Performance-Initiative](https://feed.wpletter.de/link/14399/14818543/321)
 - [WordPress News #320 / WP 5.9 Release-Termin, 5 mio mal Antispam Bee, Slider und der Gutenberg-Dialog](https://feed.wpletter.de/link/14399/14747560/320)
+- [WordPress News #319 / Classic Editor, Klimawandel und Namensrechte am WP-Kürzel](https://feed.wpletter.de/link/14399/14714212/319)
 <!-- BLOG-POST-LIST:END -->
 
 
