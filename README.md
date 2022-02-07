@@ -15,11 +15,11 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 ## Recent Writing 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [WordPress News #324 / Gutenberg-Performance, Super-List-Block, CMS-Churn](https://feed.wpletter.de/link/14399/15063729/324)
 - [WordPress News #323 / Performance in WP 5.9, Omikron und WordCamps, 14 Jahre WordPress](https://feed.wpletter.de/link/14399/14997788/323)
 - [14 Jahre WordPress](https://simon.blog/2022/14-jahre-wordpress/)
 - [WordPress News #322 / Der Hosting-Adventskalender und WordPress in 2022](https://feed.wpletter.de/link/14399/14985501/322)
 - [WordPress News #321 / Go für WP 5.9, die Zukunft des Customizers und eine Performance-Initiative](https://feed.wpletter.de/link/14399/14818543/321)
-- [WordPress News #320 / WP 5.9 Release-Termin, 5 mio mal Antispam Bee, Slider und der Gutenberg-Dialog](https://feed.wpletter.de/link/14399/14747560/320)
 <!-- BLOG-POST-LIST:END -->
 
 
