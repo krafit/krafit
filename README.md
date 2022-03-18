@@ -7,7 +7,6 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 
 - 👨‍💻 [Pluginkollektiv](https://github.com/pluginkollektiv) – Privacy first WordPress Plugins
 - 🖌️ [KrautPress](https://krautpress.de) – A German WordPress Magazine
-- 🌱 [Epiphyt](https://epiph.yt) – Nifty WordPress Plugin-Shop
 
 **[See the more comprehensive list &rarr;](https://simonkraft.com/what-i-do)**
 
