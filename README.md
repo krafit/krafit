@@ -14,11 +14,11 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 ## Recent Writing 📚
 
 <!-- BLOG-POST-LIST:START -->
-- [WordPress News #326 / 300. WP Letter, Adblocker, Script-Loading und WordPress 6.0](https://feed.wpletter.de/link/14399/15093545/326)
-- [14 Jahre WordPress](https://simon.blog/2022/14-jahre-wordpress/)
-- [WordPress News #321 / Go für WP 5.9, die Zukunft des Customizers und eine Performance-Initiative](https://feed.wpletter.de/link/14399/14818543/321)
-- [WordPress News #320 / WP 5.9 Release-Termin, 5 mio mal Antispam Bee, Slider und der Gutenberg-Dialog](https://feed.wpletter.de/link/14399/14747560/320)
-- [WordPress News #318 / Yoast verkauft, Podcast zu Hosting, WP 5.9 Roadmap](https://feed.wpletter.de/link/14399/14686143/318)
+- [WordPress News #333 / WordPress-Handbuch, Contributing, die Reise eines Trac-Tickets und Marktanteile](https://feed.wpletter.de/link/14399/15452308/333)
+- [WordPress News #332 / Five for the Future, Copilot und die WP-Ökonomie](https://feed.wpletter.de/link/14399/15436876/332)
+- [WordPress News #331 / WP-Zertifizierung, einfache Blöcke und ein Security-Krimi](https://feed.wpletter.de/link/14399/15429322/331)
+- [WordPress News #330 / WP beschleunigen, GitHub-Boykott und die Wirtschaft](https://feed.wpletter.de/link/14399/15409180/330)
+- [WordPress News #329 / Parasiten, Tipps für Devs und ungenutzte Bilder](https://feed.wpletter.de/link/14399/15395039/329)
 <!-- BLOG-POST-LIST:END -->
 
 
