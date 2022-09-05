@@ -14,11 +14,11 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 ## Recent Writing 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [WordPress News #335 / Fehler ausgeben, WooCommerce-Verzeichnis und Sandboxes](https://feed.wpletter.de/link/14399/15608228/335)
 - [Frischer Wind in der WooCommerce-Community](https://simon.blog/2022/frischer-wind/)
 - [WordPress News #334 / Neues WooCommerce-Meetup, Google Fonts, CLI und Marktanalysen](https://feed.wpletter.de/link/14399/15586179/334)
 - [WordPress News #333 / WordPress-Handbuch, Contributing, die Reise eines Trac-Tickets und Marktanteile](https://feed.wpletter.de/link/14399/15452308/333)
 - [WordPress News #332 / Five for the Future, Copilot und die WP-Ökonomie](https://feed.wpletter.de/link/14399/15436876/332)
-- [WordPress News #331 / WP-Zertifizierung, einfache Blöcke und ein Security-Krimi](https://feed.wpletter.de/link/14399/15429322/331)
 <!-- BLOG-POST-LIST:END -->
 
 
