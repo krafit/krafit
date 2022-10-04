@@ -14,11 +14,11 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 ## Recent Writing 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [WordPress News #339 / Google Fonts in WP 6.1, Präsentationen mit Blöcken, Headless und die wp-config](https://feed.wpletter.de/link/14399/15681038/339)
 - [WordPress News #338 / WP Translation Day, Woo vs. Shopify, ACF 6 und 1KB-Websites](https://feed.wpletter.de/link/14399/15663842/338)
 - [WordPress News #337 / Barrierefreiheit, BuddyPress, Canonical Plugins und KI](https://feed.wpletter.de/link/14399/15649223/337)
 - [WordPress News #335 / Fehler ausgeben, WooCommerce-Verzeichnis und Sandboxes](https://feed.wpletter.de/link/14399/15608228/335)
 - [Frischer Wind in der WooCommerce-Community](https://simon.blog/2022/frischer-wind/)
-- [WordPress News #334 / Neues WooCommerce-Meetup, Google Fonts, CLI und Marktanalysen](https://feed.wpletter.de/link/14399/15586179/334)
 <!-- BLOG-POST-LIST:END -->
 
 
