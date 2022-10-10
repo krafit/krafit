@@ -14,7 +14,7 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 ## Recent Writing 📚
 
 <!-- BLOG-POST-LIST:START -->
-- [WordPress News #wissenschaft-drama-um-statistiken-helpful-content-und-marie-kondo / Wissenschaft, Drama um Statistiken, Helpful Content und Marie Kondo](https://feed.wpletter.de/link/14399/15693138/wissenschaft-drama-um-statistiken-helpful-content-und-marie-kondo)
+- [WordPress News #340 / Wissenschaft, Drama um Statistiken, Helpful Content und Marie Kondo](https://feed.wpletter.de/link/14399/15693710/340)
 - [WordPress News #339 / Google Fonts in WP 6.1, Präsentationen mit Blöcken, Headless und die wp-config](https://feed.wpletter.de/link/14399/15681038/339)
 - [WordPress News #338 / WP Translation Day, Woo vs. Shopify, ACF 6 und 1KB-Websites](https://feed.wpletter.de/link/14399/15663842/338)
 - [WordPress News #337 / Barrierefreiheit, BuddyPress, Canonical Plugins und KI](https://feed.wpletter.de/link/14399/15649223/337)
