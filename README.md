@@ -14,11 +14,11 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 ## Recent Writing 📚
 
 <!-- BLOG-POST-LIST:START -->
-- [Frischer Wind in der WooCommerce-Community](https://simon.blog/2022/frischer-wind/)
-- [14 Jahre WordPress](https://simon.blog/2022/14-jahre-wordpress/)
-- [Weniger miese Twitter-Embeds bitte!](https://simon.blog/2021/miese-twitter-embeds/)
-- [Hat WordPress ein Performance-Problem?](https://krautpress.de/2021/wordpress-performance-probleme/?planetwp=true)
-- [Ich mache was Neues](https://simon.blog/2021/ich-mache-was-neues/)
+- [WordPress News #340 / Wissenschaft, Drama um Statistiken, Helpful Content und Marie Kondo](https://feed.wpletter.de/link/14399/15693710/340)
+- [WordPress News #339 / Google Fonts in WP 6.1, Präsentationen mit Blöcken, Headless und die wp-config](https://feed.wpletter.de/link/14399/15681038/339)
+- [WordPress News #338 / WP Translation Day, Woo vs. Shopify, ACF 6 und 1KB-Websites](https://feed.wpletter.de/link/14399/15663842/338)
+- [WordPress News #337 / Barrierefreiheit, BuddyPress, Canonical Plugins und KI](https://feed.wpletter.de/link/14399/15649223/337)
+- [WordPress News #335 / Fehler ausgeben, WooCommerce-Verzeichnis und Sandboxes](https://feed.wpletter.de/link/14399/15608228/335)
 <!-- BLOG-POST-LIST:END -->
 
 
