@@ -14,7 +14,7 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 ## Recent Writing 📚
 
 <!-- BLOG-POST-LIST:START -->
-- [WordPress News #das-community-collective-plugin-jahresrueckblick-und-nachhaltigkeit / Das Community Collective, Plugin-Jahresrückblick und Nachhaltigkeit](https://feed.wpletter.de/link/14399/15837460/das-community-collective-plugin-jahresrueckblick-und-nachhaltigkeit)
+- [WordPress News #342 / Das Community Collective, Plugin-Jahresrückblick und Nachhaltigkeit](https://feed.wpletter.de/link/14399/15878560/342)
 - [WordPress News #341 / WP 6.1, Optionen, Italien und Best Practices](https://feed.wpletter.de/link/14399/15765200/341)
 - [WordPress News #340 / Wissenschaft, Drama um Statistiken, Helpful Content und Marie Kondo](https://feed.wpletter.de/link/14399/15693710/340)
 - [WordPress News #339 / Google Fonts in WP 6.1, Präsentationen mit Blöcken, Headless und die wp-config](https://feed.wpletter.de/link/14399/15681038/339)
