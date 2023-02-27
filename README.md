@@ -14,11 +14,11 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 ## Recent Writing 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [WordPress News #348 / Datenschutzprobleme in WP 6.2, falsche Annahmen, Suchergebnisse und Berlin](https://feed.wpletter.de/link/14399/15994653/348)
 - [Wird die neue WordPress-Bilderdatenbank eine Datenschutzfalle?](https://feed.krautpress.de/link/14419/15994585/openverse-datenschutz)
 - [WordPress News #347 / Block-Themes, Entlassungen und ein Frühling für PWAs](https://feed.wpletter.de/link/14399/15983456/347)
 - [WordPress News #346 / Sitemaps, Bezahl-Themes und das WordCamp Schweiz](https://feed.wpletter.de/link/14399/15972670/346)
 - [WordPress News #345 / WordPress-Sicherheit, Login und das Ende von Phase 2](https://feed.wpletter.de/link/14399/15958050/345)
-- [WordPress News #344 / Slack verlassen, Debugging und Social Media](https://feed.wpletter.de/link/14399/15944409/344)
 <!-- BLOG-POST-LIST:END -->
 
 
