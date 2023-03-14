@@ -17,8 +17,8 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 - [WordPress News #350 / Das Fediverse, bessere Standard-Themes, Mika Epstein und die Sicherheit](https://feed.wpletter.de/link/14399/16020589/350)
 - [WordPress News #349 / Advanced Ads Verkauf, theme.json-Schmerz und ein Impressum](https://feed.wpletter.de/link/14399/16006115/349)
 - [WordPress News #348 / Datenschutzprobleme in WP 6.2, falsche Annahmen, Suchergebnisse und Berlin](https://feed.wpletter.de/link/14399/15994653/348)
-- [Wird die neue WordPress-Bilderdatenbank eine Datenschutzfalle?](https://feed.krautpress.de/link/14419/15994585/openverse-datenschutz)
 - [WordPress News #347 / Block-Themes, Entlassungen und ein Frühling für PWAs](https://feed.wpletter.de/link/14399/15983456/347)
+- [WordPress News #346 / Sitemaps, Bezahl-Themes und das WordCamp Schweiz](https://feed.wpletter.de/link/14399/15972670/346)
 <!-- BLOG-POST-LIST:END -->
 
 
