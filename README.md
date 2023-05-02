@@ -14,11 +14,11 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 ## Recent Writing 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [WordPress News #353 / WordCamp Europe, Kontraste, Notifications und Performance](https://feed.wpletter.de/link/14399/16100027/353)
 - [WordPress News #352 / WordCamps in Österreich und der Schweiz, Yoast ohne Marieke](https://feed.wpletter.de/link/14399/16089073/352)
 - [ActivityPub und Automattic: im Gespräch mit Matthias Pfefferle](https://feed.krautpress.de/link/14419/16037100/activitypub-und-automattic)
 - [WordPress News #351 / ActivityPub-Übernahme, High-Performance-WooCommerce und keine Börsengänge](https://feed.wpletter.de/link/14399/16031100/351)
 - [WordPress News #350 / Das Fediverse, bessere Standard-Themes, Mika Epstein und die Sicherheit](https://feed.wpletter.de/link/14399/16020589/350)
-- [WordPress News #349 / Advanced Ads Verkauf, theme.json-Schmerz und ein Impressum](https://feed.wpletter.de/link/14399/16006115/349)
 <!-- BLOG-POST-LIST:END -->
 
 
