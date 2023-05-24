@@ -14,11 +14,11 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 ## Recent Writing 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [Im Gespräch mit Josepha Haden Chomphosy](https://feed.krautpress.de/link/14419/16143812/im-gespraech-mit-josepha-haden-chomphosy)
 - [WordPress News #355 / WordPress-Updates, Ende für Standard-Themes, Freunde auf WordCamps und WCEU-Plan](https://feed.wpletter.de/link/14399/16137948/355)
 - [WordPress News #354 / Unbezahlte Übersetzungen, Medien aufräumen und kritische Lücke in ACF](https://feed.wpletter.de/link/14399/16110963/354)
 - [Premium-Plugins und kostenlose Übersetzungen: Warum nur?](https://feed.krautpress.de/link/14419/16104274/premium-plugins-kostenlose-uebersetzungen)
 - [WordPress News #353 / WordCamp Europe, Kontraste, Notifications und Performance](https://feed.wpletter.de/link/14399/16100027/353)
-- [WordPress News #352 / WordCamps in Österreich und der Schweiz, Yoast ohne Marieke](https://feed.wpletter.de/link/14399/16089073/352)
 <!-- BLOG-POST-LIST:END -->
 
 
