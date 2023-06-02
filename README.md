@@ -14,11 +14,11 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 ## Recent Writing 📚
 
 <!-- BLOG-POST-LIST:START -->
-- [Sehr kurze 15 Jahre](https://simon.blog/2023/kurze-15-jahre/)
-- [Frischer Wind in der WooCommerce-Community](https://simon.blog/2022/frischer-wind/)
-- [14 Jahre WordPress](https://simon.blog/2022/14-jahre-wordpress/)
-- [Weniger miese Twitter-Embeds bitte!](https://simon.blog/2021/miese-twitter-embeds/)
-- [Ich mache was Neues](https://simon.blog/2021/ich-mache-was-neues/)
+- [Zwei-Faktor-Authentifizierung: WordPress.org ist sicherer geworden](https://feed.krautpress.de/link/14419/16155564/wordpress-org-2fa)
+- [Im Gespräch mit Josepha Haden Chomphosy](https://feed.krautpress.de/link/14419/16143812/im-gespraech-mit-josepha-haden-chomphosy)
+- [WordPress News #355 / WordPress-Updates, Ende für Standard-Themes, Freunde auf WordCamps und WCEU-Plan](https://feed.wpletter.de/link/14399/16137948/355)
+- [WordPress News #354 / Unbezahlte Übersetzungen, Medien aufräumen und kritische Lücke in ACF](https://feed.wpletter.de/link/14399/16110963/354)
+- [Premium-Plugins und kostenlose Übersetzungen: Warum nur?](https://feed.krautpress.de/link/14419/16104274/premium-plugins-kostenlose-uebersetzungen)
 <!-- BLOG-POST-LIST:END -->
 
 
