@@ -14,11 +14,11 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 ## Recent Writing 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [WordPress News #356 / WordCamp Europe 2023 und 2024, Sicherheit und WP 6.3](https://feed.wpletter.de/link/14399/16185035/356)
 - [WordCamp Europe 2024 – Turin](https://feed.krautpress.de/link/14419/16183819/wceu-2024-turin)
 - [Zwei-Faktor-Authentifizierung: WordPress.org ist sicherer geworden](https://feed.krautpress.de/link/14419/16155564/wordpress-org-2fa)
 - [Im Gespräch mit Josepha Haden Chomphosy](https://feed.krautpress.de/link/14419/16143812/im-gespraech-mit-josepha-haden-chomphosy)
 - [WordPress News #355 / WordPress-Updates, Ende für Standard-Themes, Freunde auf WordCamps und WCEU-Plan](https://feed.wpletter.de/link/14399/16137948/355)
-- [WordPress News #354 / Unbezahlte Übersetzungen, Medien aufräumen und kritische Lücke in ACF](https://feed.wpletter.de/link/14399/16110963/354)
 <!-- BLOG-POST-LIST:END -->
 
 
