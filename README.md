@@ -14,11 +14,11 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 ## Recent Writing 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [Der Weg vom Neuling zur WordCamp-Sprecherin](https://feed.krautpress.de/link/14419/16242959/neuling-zu-sprecherin)
 - [WordPress News #358 / PHP-5-Abgesang, Kollaboration, Sponsoring](https://feed.wpletter.de/link/14399/16229379/358)
 - [WordPress News #357 / WordCamp Leipzig und WordCamp Deutschland, Form Block Pro und Gravatar](https://feed.wpletter.de/link/14399/16217731/357)
 - [WordPress News #356 / WordCamp Europe 2023 und 2024, Sicherheit und WP 6.3](https://feed.wpletter.de/link/14399/16185035/356)
 - [WordCamp Europe 2024 – Turin](https://feed.krautpress.de/link/14419/16183819/wceu-2024-turin)
-- [Zwei-Faktor-Authentifizierung: WordPress.org ist sicherer geworden](https://feed.krautpress.de/link/14419/16155564/wordpress-org-2fa)
 <!-- BLOG-POST-LIST:END -->
 
 
