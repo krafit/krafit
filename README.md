@@ -14,11 +14,11 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 ## Recent Writing 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [WordPress News #361 / FrOSCon, BackWPup-Verkauf, Synchronisierte Blöcke und Plugin-Reviews](https://feed.wpletter.de/link/14399/16306341/361)
 - [WordPress News #360 / Warum WP? Security, WordCamp-Tickets und Hackathon](https://feed.wpletter.de/link/14399/16256948/360)
 - [Der Weg vom Neuling zur WordCamp-Sprecherin](https://feed.krautpress.de/link/14419/16242959/neuling-zu-sprecherin)
 - [WordPress News #359 / Neues Interface, Contributor Mentorship und Vorträge](https://feed.wpletter.de/link/14399/16242975/359)
 - [WordPress News #358 / PHP-5-Abgesang, Kollaboration, Sponsoring](https://feed.wpletter.de/link/14399/16229379/358)
-- [WordPress News #357 / WordCamp Leipzig und WordCamp Deutschland, Form Block Pro und Gravatar](https://feed.wpletter.de/link/14399/16217731/357)
 <!-- BLOG-POST-LIST:END -->
 
 
