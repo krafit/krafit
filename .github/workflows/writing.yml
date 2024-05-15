@@ -14,5 +14,5 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@1.2.5
         with:
           commit_message: "🤖 Updated readme with the latest post data"
-          feed_list: "https://simon.blog/feed,https://krautpress.de/author/simon/feed,https://feed.wpletter.de/planet,https://yithemes.com/blog/author/simonkraft/feed"
+          feed_list: "https://simon.blog/feed,https://krautpress.de/author/simon/feed,https://feed.wpletter.de/planet,https://www.wppodcast.de/feed/podcast/,https://feed.kraut.press/en/notes/"
           max_post_count: "5"
