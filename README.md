@@ -6,7 +6,7 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 ## Most recent work 👷‍♂️
 
 - 👨‍💻 [Pluginkollektiv](https://github.com/pluginkollektiv) – Privacy first WordPress Plugins
-- 🖌️ [KrautPress](https://krautpress.de) – A German WordPress Magazine
+- 🖌️ [KrautPress](https://kraut.press) – A european WordPress Magazine
 
 **[See the more comprehensive list &rarr;](https://simonkraft.com/what-i-do)**
 
@@ -27,8 +27,8 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 - 👴 WordPress since 2008
 - 🌱 Former biology nerd turned code nerd
 - 💬 Ask me about WordPress, WooCommerce, Open Source CMS
-- 📫 How to get in touch: [Twitter](https://twitter.com/krafit), [Mastodon](https://dewp.space/@simon)
+- 📫 How to get in touch: [Mastodon](https://dewp.space/@simon)
 - 😄 Pronouns: he/him
 
 <br/><br/><br/>
-**[Visit my website &rarr;](https://simonkraft.com)**
+**[Visit my website &rarr;](https://simonkraft.com/hi)**
