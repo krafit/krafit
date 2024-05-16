@@ -14,11 +14,11 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 ## Recent Writing 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [Meet the WordPress 6.6 Release Squad](https://feed.kraut.press/link/23937/16684117/release-squad-6-6)
+- [The WCEU Youth & Teens workshop](https://feed.kraut.press/link/23937/16684118/the-wceu-youth-teens-workshop)
 - [Seite neu laden](https://www.wppodcast.de/podcast/seite-neu-laden/)
 - [Abschied vom Marketing-Team](https://www.wppodcast.de/podcast/abschied-vom-marketing-team/)
 - [WordPress 6.6 sucht Team-Mitglieder](https://www.wppodcast.de/podcast/wordpress-6-6-sucht-team-mitglieder/)
-- [WordCamps – das Leipziger Modell](https://feed.kraut.press/link/14419/16661677/das-leipziger-modell)
-- [WordPress wird schneller](https://www.wppodcast.de/podcast/wordpress-wird-schneller/)
 <!-- BLOG-POST-LIST:END -->
 
 
