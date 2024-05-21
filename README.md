@@ -14,11 +14,11 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 ## Recent Writing 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [Blueprint Galerie](https://www.wppodcast.de/podcast/blueprint-galerie/)
 - [New podcast episode](https://feed.kraut.press/link/23937/16687515/new-wceu-podcast)
 - [WCEU + 🇪🇺 = ❤️](https://feed.kraut.press/link/23937/16685424/eu-parliament-patronage)
 - [Meet the WordPress 6.6 Release Squad](https://feed.kraut.press/link/23937/16684117/release-squad-6-6)
 - [The WCEU Youth & Teens workshop](https://feed.kraut.press/link/23937/16684118/the-wceu-youth-teens-workshop)
-- [Seite neu laden](https://www.wppodcast.de/podcast/seite-neu-laden/)
 <!-- BLOG-POST-LIST:END -->
 
 
