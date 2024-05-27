@@ -14,11 +14,11 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 ## Recent Writing 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [An introduction to GatherPress](https://feed.kraut.press/link/23937/16694692/introduction-to-gatherpress)
 - [WordPress News #364 / WCEU Session-Plan, Drupal-Nachwuchs, Medien im Fediverse und ein Podcast](https://feed.kraut.press/link/14399/16694608/364)
 - [Die Zukunft der Meetup-Organisation kommt (vielleicht)](https://feed.kraut.press/link/14419/16693458/meetup-zukunft-vielleicht)
 - [Get ready for some workshopping!](https://feed.kraut.press/link/23937/16693297/get-ready-for-some-workshopping)
 - [Blueprint Galerie](https://www.wppodcast.de/podcast/blueprint-galerie/)
-- [New podcast episode](https://feed.kraut.press/link/23937/16687515/new-wceu-podcast)
 <!-- BLOG-POST-LIST:END -->
 
 
