@@ -14,11 +14,11 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 ## Recent Writing 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [WordPress News #365 / Google, WP.org-Assets, WCEU Side-Events und GatherPress](https://feed.kraut.press/link/14399/16701469/365)
 - [WP Accessibility Day: Call for speakers](https://feed.kraut.press/link/23937/16696932/wp-accessibility-day-call-for-speakers)
 - [Time for a new WCEU ticket batch](https://feed.kraut.press/link/23937/16695680/new-wceu-tickets)
 - [Community Themes](https://www.wppodcast.de/podcast/community-themes/)
 - [Happy Birthday, WordPress 🎂](https://feed.kraut.press/link/23937/16694828/happy-birthday-wordpress-%f0%9f%8e%82)
-- [An introduction to GatherPress](https://feed.kraut.press/link/23937/16694692/introduction-to-gatherpress)
 <!-- BLOG-POST-LIST:END -->
 
 
