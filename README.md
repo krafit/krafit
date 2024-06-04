@@ -14,11 +14,11 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 ## Recent Writing 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [How the 2025 host city was selected](https://feed.kraut.press/link/23937/16703147/2025-host-city-selection)
 - [WordPress Contributor Handbook](https://www.wppodcast.de/podcast/wordpress-contributor-handbook/)
 - [Ready to party?](https://feed.kraut.press/link/23937/16701678/ready-to-party)
 - [Wellness at WordCamp Europe](https://feed.kraut.press/link/23937/16701572/wellness)
 - [WordPress News #365 / Google, WP.org-Assets, WCEU Side-Events und GatherPress](https://feed.kraut.press/link/14399/16701469/365)
-- [WP Accessibility Day: Call for speakers](https://feed.kraut.press/link/23937/16696932/wp-accessibility-day-call-for-speakers)
 <!-- BLOG-POST-LIST:END -->
 
 
