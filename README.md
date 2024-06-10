@@ -15,10 +15,10 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 
 <!-- BLOG-POST-LIST:START -->
 - [WordPress News #366 / Last-Minute WCEU, Block-Themes, Plugin-Geschichten und Mastodon-Ausfall](https://feed.kraut.press/link/14399/16709375/366)
+- [Der WCEU-Reisebegleiter](https://feed.kraut.press/link/14419/16709413/wceu24-reisebegleiter)
 - [The WCEU Playlist](https://feed.kraut.press/link/23937/16703395/wceu-playlist)
 - [How the 2025 host city was selected](https://feed.kraut.press/link/23937/16703147/2025-host-city-selection)
 - [WordPress Contributor Handbook](https://www.wppodcast.de/podcast/wordpress-contributor-handbook/)
-- [Ready to party?](https://feed.kraut.press/link/23937/16701678/ready-to-party)
 <!-- BLOG-POST-LIST:END -->
 
 
