@@ -14,11 +14,11 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 ## Recent Writing 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [Talk: Nobody likes the native search](https://feed.kraut.press/link/23937/16714559/talk-nobody-likes-the-native-search)
 - [Talk: The art of product](https://feed.kraut.press/link/23937/16714488/the-art-of-product)
 - [A nice touch](https://feed.kraut.press/link/23937/16714467/a-nice-touch)
 - [WCEU is a go!](https://feed.kraut.press/link/23937/16714240/wceu-is-a-go)
 - [Translation Events](https://feed.kraut.press/link/23937/16712873/translation-events)
-- [Let’s go – Contributor Day](https://feed.kraut.press/link/23937/16712874/lets-go-contributor-day)
 <!-- BLOG-POST-LIST:END -->
 
 
