@@ -14,11 +14,11 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 ## Recent Writing 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [Talk: The art of product](https://feed.kraut.press/link/23937/16714488/the-art-of-product)
 - [A nice touch](https://feed.kraut.press/link/23937/16714467/a-nice-touch)
 - [WCEU is a go!](https://feed.kraut.press/link/23937/16714240/wceu-is-a-go)
 - [Translation Events](https://feed.kraut.press/link/23937/16712873/translation-events)
 - [Let’s go – Contributor Day](https://feed.kraut.press/link/23937/16712874/lets-go-contributor-day)
-- [WordPress 6.5.4 und 6.6 Beta](https://www.wppodcast.de/podcast/wordpress-6-5-4-und-6-6-beta/)
 <!-- BLOG-POST-LIST:END -->
 
 
