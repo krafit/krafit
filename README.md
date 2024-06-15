@@ -14,11 +14,11 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 ## Recent Writing 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [Talk: Practical Techniques for Sustainable Web Development with WordPress](https://feed.kraut.press/link/23937/16715475/talk-practical-techniques-for-sustainable-web-development-with-wordpress)
+- [First numbers are in!](https://feed.kraut.press/link/23937/16715476/first-numbers-are-in)
 - [Talk: Nobody likes the native search](https://feed.kraut.press/link/23937/16714559/talk-nobody-likes-the-native-search)
 - [Talk: The art of product](https://feed.kraut.press/link/23937/16714488/the-art-of-product)
 - [A nice touch](https://feed.kraut.press/link/23937/16714467/a-nice-touch)
-- [WCEU is a go!](https://feed.kraut.press/link/23937/16714240/wceu-is-a-go)
-- [Translation Events](https://feed.kraut.press/link/23937/16712873/translation-events)
 <!-- BLOG-POST-LIST:END -->
 
 
