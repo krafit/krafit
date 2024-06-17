@@ -15,10 +15,10 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 
 <!-- BLOG-POST-LIST:START -->
 - [WordPress News #367 / WCEU 2025, Bits, Progress Planner und Pride Month](https://feed.kraut.press/link/14399/16716619/367)
-- [WordCamp Europe 2025 – Basel 🇨🇭](https://feed.presswerk.net/link/14419/16715574/wordcamp-europe-2025-basel-%f0%9f%87%a8%f0%9f%87%ad)
 - [Talk: Practical Techniques for Sustainable Web Development with WordPress](https://feed.kraut.press/link/23937/16715475/talk-practical-techniques-for-sustainable-web-development-with-wordpress)
 - [First numbers are in!](https://feed.kraut.press/link/23937/16715476/first-numbers-are-in)
 - [Talk: Nobody likes the native search](https://feed.kraut.press/link/23937/16714559/talk-nobody-likes-the-native-search)
+- [Talk: The art of product](https://feed.kraut.press/link/23937/16714488/the-art-of-product)
 <!-- BLOG-POST-LIST:END -->
 
 
