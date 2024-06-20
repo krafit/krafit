@@ -14,11 +14,11 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 ## Recent Writing 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [Welcome to Basel](https://feed.kraut.press/link/23937/16720589/welcome-to-basel)
 - [Some stats](https://feed.kraut.press/link/23937/16719909/some-stats)
 - [Bits, die besseren [Shortcodes]?](https://www.wppodcast.de/podcast/bits-die-besseren-shortcodes/)
 - [WordPress News #367 / WCEU 2025, Bits, Progress Planner und Pride Month](https://feed.kraut.press/link/14399/16716619/367)
 - [Talk: Practical Techniques for Sustainable Web Development with WordPress](https://feed.kraut.press/link/23937/16715475/talk-practical-techniques-for-sustainable-web-development-with-wordpress)
-- [First numbers are in!](https://feed.kraut.press/link/23937/16715476/first-numbers-are-in)
 <!-- BLOG-POST-LIST:END -->
 
 
