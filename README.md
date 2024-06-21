@@ -18,7 +18,7 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 - [Some stats](https://feed.kraut.press/link/23937/16719909/some-stats)
 - [Bits, die besseren [Shortcodes]?](https://www.wppodcast.de/podcast/bits-die-besseren-shortcodes/)
 - [WordPress News #367 / WCEU 2025, Bits, Progress Planner und Pride Month](https://feed.kraut.press/link/14399/16716619/367)
-- [Talk: Practical Techniques for Sustainable Web Development with WordPress](https://feed.kraut.press/link/23937/16715475/talk-practical-techniques-for-sustainable-web-development-with-wordpress)
+- [WordCamp Europe 2025 – Basel 🇨🇭](https://feed.presswerk.net/link/14419/16715574/wordcamp-europe-2025-basel-%f0%9f%87%a8%f0%9f%87%ad)
 <!-- BLOG-POST-LIST:END -->
 
 
