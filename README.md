@@ -14,11 +14,11 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 ## Recent Writing 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [Alles über WordPress 6.6](https://www.wppodcast.de/podcast/alles-ueber-wordpress-6-6/)
 - [WordPress News #368 / Bessere Webfonts, Fotos, Plugins, und viele WCEU-Erinnerungen](https://feed.kraut.press/link/14399/16723166/368)
 - [Bits, die besseren [Shortcodes]?](https://www.wppodcast.de/podcast/bits-die-besseren-shortcodes/)
 - [WordPress News #367 / WCEU 2025, Bits, Progress Planner und Pride Month](https://feed.kraut.press/link/14399/16716619/367)
 - [WordPress 6.5.4 und 6.6 Beta](https://www.wppodcast.de/podcast/wordpress-6-5-4-und-6-6-beta/)
-- [WordPress News #366 / Last-Minute WCEU, Block-Themes, Plugin-Geschichten und Mastodon-Ausfall](https://feed.kraut.press/link/14399/16709375/366)
 <!-- BLOG-POST-LIST:END -->
 
 
