@@ -18,7 +18,7 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 - [WordPress News #368 / Bessere Webfonts, Fotos, Plugins, und viele WCEU-Erinnerungen](https://feed.kraut.press/link/14399/16723166/368)
 - [Bits, die besseren [Shortcodes]?](https://www.wppodcast.de/podcast/bits-die-besseren-shortcodes/)
 - [WordPress News #367 / WCEU 2025, Bits, Progress Planner und Pride Month](https://feed.kraut.press/link/14399/16716619/367)
-- [WordCamp Europe 2025 – Basel 🇨🇭](https://feed.presswerk.net/link/14419/16715574/wordcamp-europe-2025-basel-%f0%9f%87%a8%f0%9f%87%ad)
+- [WordPress 6.5.4 und 6.6 Beta](https://www.wppodcast.de/podcast/wordpress-6-5-4-und-6-6-beta/)
 <!-- BLOG-POST-LIST:END -->
 
 
