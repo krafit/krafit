@@ -15,10 +15,10 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 
 <!-- BLOG-POST-LIST:START -->
 - [Sicherheitshinweis](https://www.wppodcast.de/podcast/sicherheitshinweis/)
+- [WordPress News #369 / Sicherheit, RSS und die Zukunft der Community](https://feed.kraut.press/link/14399/16730254/369)
+- [Additional action to secure WP.org plugin directory](https://feed.kraut.press/link/23937/16728868/additional-action-to-secure-plugin-directory)
+- [More detail on recent supply chain attack](https://feed.kraut.press/link/23937/16726581/more-detail-on-recent-supply-chain-attack)
 - [Alles über WordPress 6.6](https://www.wppodcast.de/podcast/alles-ueber-wordpress-6-6/)
-- [Bits, die besseren [Shortcodes]?](https://www.wppodcast.de/podcast/bits-die-besseren-shortcodes/)
-- [WordCamp Europe 2025 – Basel 🇨🇭](https://feed.presswerk.net/link/14419/16715574/wordcamp-europe-2025-basel-%f0%9f%87%a8%f0%9f%87%ad)
-- [WordPress 6.5.4 und 6.6 Beta](https://www.wppodcast.de/podcast/wordpress-6-5-4-und-6-6-beta/)
 <!-- BLOG-POST-LIST:END -->
 
 
