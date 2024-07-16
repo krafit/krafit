@@ -14,11 +14,11 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 ## Recent Writing 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [Testen des neuen Learn WordPress](https://www.wppodcast.de/podcast/testen-des-neuen-learn-wordpress/)
 - [WordPress News #371 / Release-Woche, erste Schritte für Plugins und das nächste Standard-Theme](https://feed.kraut.press/link/14399/16743564/371)
 - [bbPress 2.6.11](https://www.wppodcast.de/podcast/bbpress-2-6-11/)
 - [WordPress News #370 / WordPress-Marktanteil, GitHub Actions und Creator-Tags](https://feed.kraut.press/link/14399/16736974/370)
 - [Sicherheitshinweis](https://www.wppodcast.de/podcast/sicherheitshinweis/)
-- [WordPress News #369 / Sicherheit, RSS und die Zukunft der Community](https://feed.kraut.press/link/14399/16730254/369)
 <!-- BLOG-POST-LIST:END -->
 
 
