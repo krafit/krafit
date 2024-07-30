@@ -14,11 +14,11 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 ## Recent Writing 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [Einheitliche Berechtigungen](https://www.wppodcast.de/podcast/einheitliche-berechtigungen/)
 - [WordPress News #373 / Barrierefreiheit und Pagebuilder, Shell-Kommandos, Crowdstrike, SVG-E-Book](https://feed.kraut.press/link/14399/16755688/373)
 - [WordPress 6.6, Dorsey](https://www.wppodcast.de/podcast/wordpress-6-6-dorsey/)
 - [WordPress News #372 / Noch ein Update, CSS-Grid, hübsche Feeds und ein deutsches WordCamp](https://feed.kraut.press/link/14399/16749753/372)
 - [Das ist WordPress 6.6](https://feed.presswerk.net/link/14419/16745443/das-ist-wordpress-6-6)
-- [Testen des neuen Learn WordPress](https://www.wppodcast.de/podcast/testen-des-neuen-learn-wordpress/)
 <!-- BLOG-POST-LIST:END -->
 
 
