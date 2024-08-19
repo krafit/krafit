@@ -14,11 +14,11 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 ## Recent Writing 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [WordPress News #376 / Twenty Twenty-Five, Kommentare malen und Überschreibbare Vorlagen](https://feed.kraut.press/link/14399/16774429/376)
 - [Investition in Marketing](https://www.wppodcast.de/podcast/investition-in-marketing/)
 - [WordPress News #375 / FrOSCon, KI, Security und spannende WP CLI](https://feed.kraut.press/link/14399/16768604/375)
 - [Playground für Meeetups](https://www.wppodcast.de/podcast/playground-fuer-meeetups/)
 - [WordPress News #374 / Planet ausgefallen, WordPress keine Maleware, Fediverse](https://feed.kraut.press/link/14399/16762049/374)
-- [Einheitliche Berechtigungen](https://www.wppodcast.de/podcast/einheitliche-berechtigungen/)
 <!-- BLOG-POST-LIST:END -->
 
 
