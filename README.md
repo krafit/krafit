@@ -14,11 +14,11 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 ## Recent Writing 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [Dritte Ausgabe des WordPress Mentorship Programms](https://www.wppodcast.de/podcast/dritte-ausgabe-des-wordpress-mentorship-programms-2/)
 - [Dritte Ausgabe des WordPress Mentorship Programms](https://www.wppodcast.de/podcast/dritte-ausgabe-des-wordpress-mentorship-programms/)
 - [WordPress News #376 / Twenty Twenty-Five, Kommentare malen und Überschreibbare Vorlagen](https://feed.kraut.press/link/14399/16774429/376)
 - [Investition in Marketing](https://www.wppodcast.de/podcast/investition-in-marketing/)
 - [WordPress News #375 / FrOSCon, KI, Security und spannende WP CLI](https://feed.kraut.press/link/14399/16768604/375)
-- [Playground für Meeetups](https://www.wppodcast.de/podcast/playground-fuer-meeetups/)
 <!-- BLOG-POST-LIST:END -->
 
 
