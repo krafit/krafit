@@ -14,11 +14,11 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 ## Recent Writing 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [Roadmap für WordPress 6.7](https://www.wppodcast.de/podcast/roadmap-fuer-wordpress-6-7/)
 - [WordPress News #379 / Sicherheit für Plugin-Accounts, Core Days, Weiterleitungen und Netherlands](https://feed.kraut.press/link/14399/16798754/379)
 - [Security changes for Plugin and theme Authors](https://feed.kraut.press/link/23937/16792417/security-changes-for-plugin-and-theme-authors)
 - [Hinzufügen von Templates über Plugins](https://www.wppodcast.de/podcast/hinzufuegen-von-templates-ueber-plugins/)
 - [WordPress News #378 / tumblr, Barrierefreiheit, WordCamp Karlsruhe und das Ende eines Podcasts](https://feed.kraut.press/link/14399/16790644/378)
-- [WordPress und YouTube](https://www.wppodcast.de/podcast/wordpress-und-youtube/)
 <!-- BLOG-POST-LIST:END -->
 
 
