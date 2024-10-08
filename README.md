@@ -14,11 +14,11 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 ## Recent Writing 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [WordPress 6.7 Beta 1](https://www.wppodcast.de/podcast/wordpress-6-7-beta-1/)
 - [WordPress News #383 / Plugin-Checks, WP-6.7-Tests und die Zukunft einer Toplevel-Domain](https://feed.kraut.press/link/14399/16835766/383)
 - [Sonderausgabe: Automattic vs. WP Engine](https://www.wppodcast.de/podcast/sonderausgabe-automattic-vs-wp-engine/)
 - [Playground Manager](https://www.wppodcast.de/podcast/playground-manager/)
 - [WordPress News #382 / Medien-Experimente, Referrer Policy und ein Vorschlag zu Contributing](https://feed.kraut.press/link/14399/16825833/382)
-- [WordPress News #381 / Das WP Drama der Woche…](https://feed.kraut.press/link/14399/16819045/381)
 <!-- BLOG-POST-LIST:END -->
 
 
