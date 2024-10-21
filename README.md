@@ -14,11 +14,11 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 ## Recent Writing 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [SSO for Makeing WP Slack](https://feed.kraut.press/link/23937/16860788/sso-for-makeing-wp-slack)
 - [Hallo, Mary Hubbard](https://www.wppodcast.de/podcast/hallo-mary-hubbard/)
 - [WordPress News #384 / Übernommene Plugins, WordCamp Karlsruhe und Spannendes aus dem Fediverse](https://feed.kraut.press/link/14399/16842892/384)
 - [New Executive Director announced](https://feed.kraut.press/link/23937/16837271/new-executive-director-announced)
 - [WordPress 6.7 Beta 1](https://www.wppodcast.de/podcast/wordpress-6-7-beta-1/)
-- [WordPress News #383 / Plugin-Checks, WP-6.7-Tests und die Zukunft einer Toplevel-Domain](https://feed.kraut.press/link/14399/16835766/383)
 <!-- BLOG-POST-LIST:END -->
 
 
