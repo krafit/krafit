@@ -14,11 +14,11 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 ## Recent Writing 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [1000 Block-Themes](https://www.wppodcast.de/podcast/1000-block-themes/)
 - [WordPress News #386 / Command Paletts, Solar-Websites, Sicherheitslage und Git-Updates](https://feed.kraut.press/link/14399/16866993/386)
 - [Neuigkeiten zu WordPress 6.7](https://www.wppodcast.de/podcast/neuigkeiten-zu-wordpress-6-7/)
 - [WordPress News #385 / Zehn Jahre HeroPress, SSO und eine WordPress-Zertifizierung?](https://feed.kraut.press/link/14399/16860829/385)
 - [SSO for Makeing WP Slack](https://feed.kraut.press/link/23937/16860788/sso-for-makeing-wp-slack)
-- [Hallo, Mary Hubbard](https://www.wppodcast.de/podcast/hallo-mary-hubbard/)
 <!-- BLOG-POST-LIST:END -->
 
 
