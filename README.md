@@ -14,11 +14,11 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 ## Recent Writing 📚
 
 <!-- BLOG-POST-LIST:START -->
-- [WordPress 6.7 Rollins](https://www.wppodcast.de/podcast/wordpress-6-7-rollins/)
 - [WordPress News #389 / WordPress 6.7, 1000 aussortierte Plugins und ein Rave](https://feed.kraut.press/link/14399/16889546/389)
-- [WordPress 6.7 RC3 + RC4](https://www.wppodcast.de/podcast/wordpress-6-7-rc3-rc4/)
 - [WordPress News #388 / Die mitteilsame WP-API, Referrer-Spam und Design-Inspirationen](https://feed.kraut.press/link/14399/16882346/388)
-- [Erster großer Schritt für Data Liberation](https://www.wppodcast.de/podcast/erster-grosser-schritt-fuer-data-liberation/)
+- [WordPress News #387 / CloudFest Hackathon, Community-Marketing und ein experimentelles Plugin](https://feed.kraut.press/link/14399/16874335/387)
+- [WordPress News #386 / Command Paletts, Solar-Websites, Sicherheitslage und Git-Updates](https://feed.kraut.press/link/14399/16866993/386)
+- [WordPress News #385 / Zehn Jahre HeroPress, SSO und eine WordPress-Zertifizierung?](https://feed.kraut.press/link/14399/16860829/385)
 <!-- BLOG-POST-LIST:END -->
 
 
