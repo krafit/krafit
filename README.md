@@ -14,11 +14,11 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 ## Recent Writing 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [WordPress News #391 / Adventskalender, Plugin-Updater und Vorlagen](https://feed.kraut.press/link/14399/16907177/391)
 - [Aged Content Message – Wenn das Blog in die Jahre kommt](https://krautpress.de/2024/aged-content-message/)
 - [Fahrplan für 2025](https://www.wppodcast.de/podcast/fahrplan-fuer-2025/)
 - [WordPress News #390 / Zeitplan für 2025, PHP 8.4, Überschriften und Hintergrundvideos](https://feed.kraut.press/link/14399/16897778/390)
 - [WordPress 6.7 Rollins](https://www.wppodcast.de/podcast/wordpress-6-7-rollins/)
-- [WordPress News #389 / WordPress 6.7, 1000 aussortierte Plugins und ein Rave](https://feed.kraut.press/link/14399/16889546/389)
 <!-- BLOG-POST-LIST:END -->
 
 
