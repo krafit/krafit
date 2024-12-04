@@ -14,11 +14,11 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 ## Recent Writing 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [Event Organiser – Terminankündigungen ohne Schnickschnack](https://krautpress.de/2024/event-organiser/)
 - [FakerPress – Beispielinhalte auf Abruf](https://krautpress.de/2024/fakerpress-beispielinhalte-auf-abruf/)
 - [Snow Fall – Neuschnee in WordPress](https://krautpress.de/2024/snow-fall-neuschnee-in-wordpress/)
 - [WordPress News #391 / Adventskalender, Plugin-Updater und Vorlagen](https://feed.kraut.press/link/14399/16907177/391)
 - [Aged Content Message – Wenn das Blog in die Jahre kommt](https://krautpress.de/2024/aged-content-message/)
-- [Fahrplan für 2025](https://www.wppodcast.de/podcast/fahrplan-fuer-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 
