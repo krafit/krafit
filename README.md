@@ -14,11 +14,11 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 ## Recent Writing 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [Autoblue – Experimentelles Social-Media-Plugin](https://krautpress.de/2024/autoblue/)
 - [Find My Blocks – Alle Blöcke immer im Blick](https://krautpress.de/2024/find-my-blocks/)
 - [Protect Login – Login-Absicherung ohne Ballast](https://krautpress.de/2024/protect-login-login/)
 - [Preferred Languages – Ein sinnvoller Umgang mit Übersetzungen](https://krautpress.de/2024/preferred-languages/)
 - [Event Organiser – Terminankündigungen ohne Schnickschnack](https://krautpress.de/2024/event-organiser/)
-- [FakerPress – Beispielinhalte auf Abruf](https://krautpress.de/2024/fakerpress-beispielinhalte-auf-abruf/)
 <!-- BLOG-POST-LIST:END -->
 
 
