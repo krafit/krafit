@@ -14,11 +14,11 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 ## Recent Writing 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [Umsetzen (oder absetzen) der WP Consent API](https://www.wppodcast.de/podcast/umsetzen-oder-absetzen-der-wp-consent-api/)
 - [Fewer Tags – Mit der Axt durch den Content-Wald](https://krautpress.de/2024/fewer-tags/)
 - [WordPress News #392 / Block-Editor oder FSE, WCEU-Vorbereitung, Hybrid Themes, Adventskalender](https://feed.kraut.press/link/14399/16914379/392)
 - [Autoblue – Experimentelles Social-Media-Plugin](https://krautpress.de/2024/autoblue/)
 - [Find My Blocks – Alle Blöcke immer im Blick](https://krautpress.de/2024/find-my-blocks/)
-- [Protect Login – Login-Absicherung ohne Ballast](https://krautpress.de/2024/protect-login-login/)
 <!-- BLOG-POST-LIST:END -->
 
 
