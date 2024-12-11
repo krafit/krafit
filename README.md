@@ -14,11 +14,11 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 ## Recent Writing 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [Koko Analytics](https://feed.kraut.press/link/23937/16916904/koko-analytics)
 - [Koko Analytics – Tracking ohne Datenschutz-Sorgen](https://krautpress.de/2024/koko-analytics/)
 - [Is WordPress still WordPress?](https://feed.kraut.press/link/23937/16915488/is-wordpress-still-wordpress)
 - [Umsetzen (oder absetzen) der WP Consent API](https://www.wppodcast.de/podcast/umsetzen-oder-absetzen-der-wp-consent-api/)
 - [Fewer Tags – Mit der Axt durch den Content-Wald](https://krautpress.de/2024/fewer-tags/)
-- [WordPress News #392 / Block-Editor oder FSE, WCEU-Vorbereitung, Hybrid Themes, Adventskalender](https://feed.kraut.press/link/14399/16914379/392)
 <!-- BLOG-POST-LIST:END -->
 
 
