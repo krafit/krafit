@@ -14,11 +14,11 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 ## Recent Writing 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [Open Letter](https://feed.kraut.press/link/23937/16920169/open-letter)
 - [WP Crontrol – Debugging und Zeitreisen](https://krautpress.de/2024/wp-crontrol/)
 - [Image Source Control – Woher kam dieses Bild nochmal?](https://krautpress.de/2024/image-source-control/)
 - [Koko Analytics](https://feed.kraut.press/link/23937/16916904/koko-analytics)
 - [Koko Analytics – Tracking ohne Datenschutz-Sorgen](https://krautpress.de/2024/koko-analytics/)
-- [Is WordPress still WordPress?](https://feed.kraut.press/link/23937/16915488/is-wordpress-still-wordpress)
 <!-- BLOG-POST-LIST:END -->
 
 
