@@ -14,11 +14,11 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 ## Recent Writing 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [User Switching – WordPress mit anderen Augen sehen](https://krautpress.de/2024/user-switching/)
 - [Git Updater – Unabhängige Updates für Plugins und Themes](https://krautpress.de/2024/git-updater/)
 - [Create Block Theme – Einstieg in eine neue Welt](https://krautpress.de/2024/create-block-theme/)
 - [Open Letter](https://feed.kraut.press/link/23937/16920169/open-letter)
 - [WP Crontrol – Debugging und Zeitreisen](https://krautpress.de/2024/wp-crontrol/)
-- [Image Source Control – Woher kam dieses Bild nochmal?](https://krautpress.de/2024/image-source-control/)
 <!-- BLOG-POST-LIST:END -->
 
 
