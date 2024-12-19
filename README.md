@@ -14,11 +14,11 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 ## Recent Writing 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [Real Cookie Banner – Wenn schon Tracking, dann richtig](https://krautpress.de/2024/real-cookie-banner/)
 - [Editorial Calendar – Überblick über Inhalte](https://krautpress.de/2024/editorial-calendar/)
 - [Maintenance Mode for WordPress – Vertrösten leicht gemacht](https://krautpress.de/2024/maintenance-mode-for-wp/)
 - [Open Graph – Metadaten für Social Media und Co.](https://krautpress.de/2024/open-graph/)
 - [WordPress News #393 / State of the Word 2024, Gerichtsentscheidung, die Zukunft von WordPress und ein Sieg für Jessica](https://feed.kraut.press/link/14399/16922180/393)
-- [User Switching – WordPress mit anderen Augen sehen](https://krautpress.de/2024/user-switching/)
 <!-- BLOG-POST-LIST:END -->
 
 
