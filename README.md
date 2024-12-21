@@ -14,11 +14,11 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 ## Recent Writing 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [WebAuthn Provider for Two Factor – Zukunft des Logins?](https://krautpress.de/2024/webauthn-provider-for-two-factor/)
 - [Picu – Foto-Proofing mit WordPress](https://krautpress.de/2024/picu/)
 - [Real Cookie Banner – Wenn schon Tracking, dann richtig](https://krautpress.de/2024/real-cookie-banner/)
 - [Editorial Calendar – Überblick über Inhalte](https://krautpress.de/2024/editorial-calendar/)
 - [Maintenance Mode for WordPress – Vertrösten leicht gemacht](https://krautpress.de/2024/maintenance-mode-for-wp/)
-- [Open Graph – Metadaten für Social Media und Co.](https://krautpress.de/2024/open-graph/)
 <!-- BLOG-POST-LIST:END -->
 
 
