@@ -15,10 +15,10 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 
 <!-- BLOG-POST-LIST:START -->
 - [Form Block – Formulare wie sie sein sollten](https://krautpress.de/2024/form-block/)
+- [WordPress.org schließt für die Feiertage](https://www.wppodcast.de/podcast/wordpress-org-schliesst-fuer-die-feiertage/)
 - [Accessibility Checker – Der kleine Helfer für Barrierefreiheit](https://krautpress.de/2024/accessibility-checker/)
 - [WordPress News #394 / Danke für 2024](https://feed.kraut.press/link/14399/16926464/394)
 - [Progress Planner – Damit Bloggen wieder Spaß macht](https://krautpress.de/2024/progress-planner/)
-- [WebAuthn Provider for Two Factor – Zukunft des Logins?](https://krautpress.de/2024/webauthn-provider-for-two-factor/)
 <!-- BLOG-POST-LIST:END -->
 
 
