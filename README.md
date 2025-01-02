@@ -14,11 +14,11 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 ## Recent Writing 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [Hello world!](https://hey.simon.blog/blog/hello-world/)
 - [WordPress News #395 / Winterpause, Drama und Adventskalender](https://feed.kraut.press/link/14399/16929962/395)
 - [Form Block – Formulare wie sie sein sollten](https://krautpress.de/2024/form-block/)
 - [WordPress.org schließt für die Feiertage](https://www.wppodcast.de/podcast/wordpress-org-schliesst-fuer-die-feiertage/)
 - [Accessibility Checker – Der kleine Helfer für Barrierefreiheit](https://krautpress.de/2024/accessibility-checker/)
-- [WordPress News #394 / Danke für 2024](https://feed.kraut.press/link/14399/16926464/394)
 <!-- BLOG-POST-LIST:END -->
 
 
