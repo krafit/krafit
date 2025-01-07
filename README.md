@@ -14,11 +14,11 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 ## Recent Writing 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [Die Ferien sind vorbei!](https://www.wppodcast.de/podcast/die-ferien-sind-vorbei/)
 - [WordPress News #396 / WordCamp Leipzig, WP.org ist zurück und ein Jahresrückblick](https://feed.kraut.press/link/14399/16934130/396)
 - [Vorschläge und mehr WP Drama](https://www.wppodcast.de/podcast/vorschlaege-und-mehr-wp-drama/)
 - [WordPress News #395 / Winterpause, Drama und Adventskalender](https://feed.kraut.press/link/14399/16929962/395)
 - [Form Block – Formulare wie sie sein sollten](https://krautpress.de/2024/form-block/)
-- [WordPress.org schließt für die Feiertage](https://www.wppodcast.de/podcast/wordpress-org-schliesst-fuer-die-feiertage/)
 <!-- BLOG-POST-LIST:END -->
 
 
