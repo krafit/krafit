@@ -14,11 +14,11 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 ## Recent Writing 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [Auf Wiedersehen, Nachhaltigkeitsteam](https://www.wppodcast.de/podcast/auf-wiedersehen-nachhaltigkeitsteam/)
 - [WordPress News #398 / Nachhaltigkeit, HTML, Android und Permalinks](https://feed.kraut.press/link/14399/16943237/398)
 - [In WP 6.8 nichts Neues](https://www.wppodcast.de/podcast/in-wp-6-8-nichts-neues/)
 - [WordPress News #397 / Automattic reduziert Beitrag, Barrierefreiheit, die Community und ein Geburtstag](https://feed.kraut.press/link/14399/16938886/397)
 - [Call for Speakers](https://feed.kraut.press/link/23937/16936973/call-for-speakers)
-- [Die Ferien sind vorbei!](https://www.wppodcast.de/podcast/die-ferien-sind-vorbei/)
 <!-- BLOG-POST-LIST:END -->
 
 
