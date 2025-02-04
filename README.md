@@ -14,11 +14,11 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 ## Recent Writing 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [Kein WordPress Hosting](https://www.wppodcast.de/podcast/kein-wordpress-hosting/)
 - [WordPress News #400 / WordPress in London, Trends, Theme-Krise und ein Buch](https://feed.kraut.press/link/14399/16953640/400)
 - [A true WordPress page-turner](https://simon.blog/2025/a-wordpress-page-turner/)
 - [WordPress 6.7.2 in 2 Wochen](https://www.wppodcast.de/podcast/wordpress-6-7-2-in-2-wochen/)
 - [WordPress News #399 / Post Status verkauft, GoDaddy investiert, Enterprise-Report](https://feed.kraut.press/link/14399/16948706/399)
-- [Ein neues Kapitel für die Post-Status-Community](https://krautpress.de/2025/neues-kapitel-fuer-post-status/)
 <!-- BLOG-POST-LIST:END -->
 
 
