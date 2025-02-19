@@ -14,11 +14,11 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 ## Recent Writing 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [KrautPress Musings](https://simon.blog/2025/krautpress-musings/)
 - [20.000 Bilder](https://www.wppodcast.de/podcast/20-000-bilder/)
 - [WordPress News #402 / WP 6.7.2 veröffentlicht, Joost vor die Tür gesetzt, eigenes Logo](https://feed.kraut.press/link/14399/16964069/402)
 - [Roadmap für WordPress 6.8](https://www.wppodcast.de/podcast/roadmap-fuer-wordpress-6-8/)
 - [WordPress News #401 / WordPress 6.8, neues Woo, kein Google-Traffic und Security-Audits](https://feed.kraut.press/link/14399/16959427/401)
-- [Kein WordPress Hosting](https://www.wppodcast.de/podcast/kein-wordpress-hosting/)
 <!-- BLOG-POST-LIST:END -->
 
 
