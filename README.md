@@ -14,11 +14,11 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 ## Recent Writing 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [Call for Volunteers](https://feed.kraut.press/link/23937/16972041/call-for-volunteers)
 - [WordPress News #403 / Mehr Sicherheit, der Website-Club, Anhänge und CO₂](https://feed.kraut.press/link/14399/16969509/403)
 - [Start des KrautPress Website Club](https://krautpress.de/2025/erster-website-club/)
 - [KrautPress Musings](https://simon.blog/2025/krautpress-musings/)
 - [20.000 Bilder](https://www.wppodcast.de/podcast/20-000-bilder/)
-- [WordPress News #402 / WP 6.7.2 veröffentlicht, Joost vor die Tür gesetzt, eigenes Logo](https://feed.kraut.press/link/14399/16964069/402)
 <!-- BLOG-POST-LIST:END -->
 
 
