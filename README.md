@@ -15,10 +15,10 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 
 <!-- BLOG-POST-LIST:START -->
 - [WordPress 6.8 steht vor der Tür](https://www.wppodcast.de/podcast/wordpress-6-8-steht-vor-der-tuer/)
+- [WordPress News #404 / ActivityPub, WCEU-Volunteers und ein Hackathon](https://feed.kraut.press/link/14399/16979759/404)
 - [Call for Volunteers](https://feed.kraut.press/link/23937/16972041/call-for-volunteers)
 - [WordPress bis Version 7.0](https://www.wppodcast.de/podcast/wordpress-bis-version-7-0/)
 - [WordPress News #403 / Mehr Sicherheit, der Website-Club, Anhänge und CO₂](https://feed.kraut.press/link/14399/16969509/403)
-- [Start des KrautPress Website Club](https://krautpress.de/2025/erster-website-club/)
 <!-- BLOG-POST-LIST:END -->
 
 
