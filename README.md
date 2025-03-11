@@ -14,11 +14,11 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 ## Recent Writing 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [Spekulatives Laden](https://www.wppodcast.de/podcast/spekulatives-laden/)
 - [WordPress News #405 / Vortragende für Leipzig, Frameworks, Milana und Frauen im WordPress-Business](https://feed.kraut.press/link/14399/16980212/405)
 - [WordPress 6.8 steht vor der Tür](https://www.wppodcast.de/podcast/wordpress-6-8-steht-vor-der-tuer/)
 - [WordPress News #404 / ActivityPub, WCEU-Volunteers und ein Hackathon](https://feed.kraut.press/link/14399/16979759/404)
 - [Call for Volunteers](https://feed.kraut.press/link/23937/16972041/call-for-volunteers)
-- [WordPress bis Version 7.0](https://www.wppodcast.de/podcast/wordpress-bis-version-7-0/)
 <!-- BLOG-POST-LIST:END -->
 
 
