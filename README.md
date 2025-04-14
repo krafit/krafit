@@ -14,11 +14,11 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 ## Recent Writing 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [WordPress News #410 / WordPress 6.8 bald da, Markenrechte und Community-Events](https://feed.kraut.press/link/14399/17005508/410)
 - [WordPress News #409 / Das letzte Update des Jahres, WCEU-Sessions und -Hilfe, Alt Ctrl](https://feed.kraut.press/link/14399/17000369/409)
 - [WordPress News #408 / Hackathon vs Contributor Days, Form Block Pro und irgendwas mit KI](https://feed.kraut.press/link/14399/16995396/408)
 - [WordPress News #407 / KI, freie Software, Formulare](https://feed.kraut.press/link/14399/16990309/407)
 - [WordPress News #406 / CloudFest, WordCamp Europe, Releases und Security](https://feed.kraut.press/link/14399/16984794/406)
-- [Spekulatives Laden](https://www.wppodcast.de/podcast/spekulatives-laden/)
 <!-- BLOG-POST-LIST:END -->
 
 
