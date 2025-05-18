@@ -14,11 +14,11 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 ## Recent Writing 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [Das Ende des Media Corps](https://www.wppodcast.de/podcast/das-ende-des-media-corps/)
 - [WordPress News #414 / Figma Sites, WPCrons, Plugin-Deployment und Workshops](https://feed.kraut.press/link/14399/17028680/414)
 - [WCEU Workshop registration now open](https://feed.kraut.press/link/23937/17023660/wceu-workshop-registration-now-open)
+- [WordPress 6.8.1](https://www.wppodcast.de/podcast/wordpress-6-8-1/)
 - [WordPress News #413 / Alt Ctrl, Transients, Updates und ein RSS-Meetup](https://feed.kraut.press/link/14399/17021950/413)
-- [WordPress News #412 / Falsche Sicherheitswarnungen, Drama, Archäologie und einfaches SEO](https://feed.kraut.press/link/14399/17017232/412)
-- [WordPress News #411 / WordPress 6.8, Neues für Impressum und ein Blick nach Kenia](https://feed.kraut.press/link/14399/17012050/411)
 <!-- BLOG-POST-LIST:END -->
 
 
