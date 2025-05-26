@@ -14,11 +14,11 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 ## Recent Writing 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [WordPress News #416 / WordCamp-Vorschau und -Rückschau, Kommentar-Öffnungszeiten und Barrierefreiheit](https://feed.kraut.press/link/14399/17038028/416)
 - [Alle Netzwerke sind schon da](https://www.wppodcast.de/podcast/alle-netzwerke-sind-schon-da/)
 - [WordPress News #415 / WordCamp Leipzig, WooCommerce-Fehler, keine Bildoptimierung und ActivityPub-Updates](https://feed.kraut.press/link/14399/17033509/415)
 - [Das Ende des Media Corps](https://www.wppodcast.de/podcast/das-ende-des-media-corps/)
 - [WordPress News #414 / Figma Sites, WPCrons, Plugin-Deployment und Workshops](https://feed.kraut.press/link/14399/17028680/414)
-- [WCEU Workshop registration now open](https://feed.kraut.press/link/23937/17023660/wceu-workshop-registration-now-open)
 <!-- BLOG-POST-LIST:END -->
 
 
