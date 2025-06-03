@@ -14,7 +14,7 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 ## Recent Writing 📚
 
 <!-- BLOG-POST-LIST:START -->
-- [WordPress-Core-AI](https://www.wppodcast.de/podcast//)
+- [WordPress-Core-AI](https://www.wppodcast.de/podcast/wordpress-core-ai/)
 - [WordPress News #417 / WCEU-Woche, mehr Contributions, AI AI AI und der Website-Club](https://feed.kraut.press/link/14399/17042899/417)
 - [Mehr Plugins und mehr Gutenberg](https://www.wppodcast.de/podcast/mehr-plugins-und-mehr-gutenberg/)
 - [WordPress News #416 / WordCamp-Vorschau und -Rückschau, Kommentar-Öffnungszeiten und Barrierefreiheit](https://feed.kraut.press/link/14399/17038028/416)
