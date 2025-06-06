@@ -14,11 +14,11 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 ## Recent Writing 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [The WCEU Fediwall](https://feed.kraut.press/link/23937/17046077/the-wceu-fediwall)
+- [Read for the first talk?](https://feed.kraut.press/link/23937/17046078/read-for-the-first-talk)
 - [WCEU is about to open the doors](https://feed.kraut.press/link/23937/17045190/wceu-is-about-to-open-the-doors)
 - [WordPress-Core-AI](https://www.wppodcast.de/podcast/wordpress-core-ai/)
 - [WordPress News #417 / WCEU-Woche, mehr Contributions, AI AI AI und der Website-Club](https://feed.kraut.press/link/14399/17042899/417)
-- [Mehr Plugins und mehr Gutenberg](https://www.wppodcast.de/podcast/mehr-plugins-und-mehr-gutenberg/)
-- [WordPress News #416 / WordCamp-Vorschau und -Rückschau, Kommentar-Öffnungszeiten und Barrierefreiheit](https://feed.kraut.press/link/14399/17038028/416)
 <!-- BLOG-POST-LIST:END -->
 
 
