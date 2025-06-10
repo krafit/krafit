@@ -14,11 +14,11 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 ## Recent Writing 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [WordPress News #418 / WordCamp Europe in Polen, FAIR und Übergänge](https://feed.kraut.press/link/14399/17048339/418)
 - [WordCamp Europe 2026](https://feed.kraut.press/link/23937/17046852/wordcamp-europe-2026)
 - [The FAIR project](https://feed.kraut.press/link/23937/17046494/the-fair-project)
 - [The WCEU Fediwall](https://feed.kraut.press/link/23937/17046077/the-wceu-fediwall)
 - [Read for the first talk?](https://feed.kraut.press/link/23937/17046078/read-for-the-first-talk)
-- [WCEU is about to open the doors](https://feed.kraut.press/link/23937/17045190/wceu-is-about-to-open-the-doors)
 <!-- BLOG-POST-LIST:END -->
 
 
