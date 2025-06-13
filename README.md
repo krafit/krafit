@@ -15,10 +15,10 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 
 <!-- BLOG-POST-LIST:START -->
 - [#loopconf, the conference for WordPress developers will be back this September!](https://feed.kraut.press/link/23937/17049684/loopconf-the-conference-for-wordpress-developers-will-be-back-this-september)
-- [Ending a chapter](https://simon.blog/2025/ending-a-chapter/)
 - [WordPress News #418 / WordCamp Europe in Polen, FAIR und Übergänge](https://feed.kraut.press/link/14399/17048339/418)
 - [Neue Repositories auf GitHub](https://www.wppodcast.de/podcast/neue-repositories-auf-github/)
 - [WordCamp Europe 2026](https://feed.kraut.press/link/23937/17046852/wordcamp-europe-2026)
+- [The FAIR project](https://feed.kraut.press/link/23937/17046494/the-fair-project)
 <!-- BLOG-POST-LIST:END -->
 
 
