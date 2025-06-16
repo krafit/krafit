@@ -14,11 +14,11 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 ## Recent Writing 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [Accessibility Documentation](https://feed.kraut.press/link/23937/17053405/accessibility-documentation)
+- [WordPress News #419 / 10 Jahre WP Letter, die Community, Barrierefreiheit und WCEU](https://feed.kraut.press/link/14399/17053383/419)
 - [#loopconf, the conference for WordPress developers will be back this September!](https://feed.kraut.press/link/23937/17049684/loopconf-the-conference-for-wordpress-developers-will-be-back-this-september)
 - [Ending a chapter](https://simon.blog/2025/ending-a-chapter/)
 - [WordPress News #418 / WordCamp Europe in Polen, FAIR und Übergänge](https://feed.kraut.press/link/14399/17048339/418)
-- [Neue Repositories auf GitHub](https://www.wppodcast.de/podcast/neue-repositories-auf-github/)
-- [WordCamp Europe 2026](https://feed.kraut.press/link/23937/17046852/wordcamp-europe-2026)
 <!-- BLOG-POST-LIST:END -->
 
 
