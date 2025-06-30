@@ -14,11 +14,11 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 ## Recent Writing 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [WordPress News #421 / Zehn Jahre Core, KI-Signale, RSS-Antworten und der KrautPress Website Club](https://feed.kraut.press/link/14399/17066009/421)
 - [WordPress News #420 / Sicherheits-Updates, unklares WordCamp US, Geburtstag und FAIR](https://feed.kraut.press/link/14399/17061543/420)
 - [Camptix braucht ein Update](https://www.wppodcast.de/podcast/camptix-braucht-ein-update/)
 - [Accessibility Documentation](https://feed.kraut.press/link/23937/17053405/accessibility-documentation)
 - [WordPress News #419 / 10 Jahre WP Letter, die Community, Barrierefreiheit und WCEU](https://feed.kraut.press/link/14399/17053383/419)
-- [#loopconf, the conference for WordPress developers will be back this September!](https://feed.kraut.press/link/23937/17049684/loopconf-the-conference-for-wordpress-developers-will-be-back-this-september)
 <!-- BLOG-POST-LIST:END -->
 
 
