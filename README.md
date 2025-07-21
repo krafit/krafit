@@ -14,11 +14,11 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 ## Recent Writing 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [WordPress News #424 / BackWPup ist gefallen, WP 6.8.2, KI-Pläne und ein WordCamp an der Ostsee](https://feed.kraut.press/link/14399/17100763/424)
 - [Komponenten im Wartungsmodus](https://www.wppodcast.de/podcast/komponenten-im-wartungsmodus-2/)
 - [WordPress News #423 / Neues Online-Meetup, WP 6.9, kein Theme und ungewöhnliche Anwendungsfälle](https://feed.kraut.press/link/14399/17092517/423)
 - [Face-Off](https://simon.blog/2025/face-off/)
 - [Komponenten im Wartungsmodus](https://www.wppodcast.de/podcast/komponenten-im-wartungsmodus/)
-- [WordPress News #422 / Cloudflare, Datenschutz und mehr WCEU](https://feed.kraut.press/link/14399/17081689/422)
 <!-- BLOG-POST-LIST:END -->
 
 
