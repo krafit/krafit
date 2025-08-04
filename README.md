@@ -14,11 +14,11 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 ## Recent Writing 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [WordPress News #426 / Woo-Block-Strategie, WordCamp-Analyse und eine Blog-Suchmaschine](https://feed.kraut.press/link/14399/17111043/426)
 - [WordPress News #425 / FAIR-Wahlen, Alte WordCamps und Fehler-E-Mails](https://feed.kraut.press/link/14399/17104876/425)
 - [KI-Komponenten in WordPress](https://www.wppodcast.de/podcast/ki-komponenten-in-wordpress/)
 - [WordPress News #424 / BackWPup ist gefallen, WP 6.8.2, KI-Pläne und ein WordCamp an der Ostsee](https://feed.kraut.press/link/14399/17100763/424)
 - [Komponenten im Wartungsmodus](https://www.wppodcast.de/podcast/komponenten-im-wartungsmodus-2/)
-- [WordPress News #423 / Neues Online-Meetup, WP 6.9, kein Theme und ungewöhnliche Anwendungsfälle](https://feed.kraut.press/link/14399/17092517/423)
 <!-- BLOG-POST-LIST:END -->
 
 
