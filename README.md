@@ -15,10 +15,10 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 
 <!-- BLOG-POST-LIST:START -->
 - [WordPress News #427 / FrOSCon, perfekte Installation und das WordCamp Gdynia](https://feed.kraut.press/link/14399/17115048/427)
+- [Roadmap zu WordPress 6.9](https://www.wppodcast.de/podcast/roadmap-zu-wordpress-6-9/)
 - [WordPress News #426 / Woo-Block-Strategie, WordCamp-Analyse und eine Blog-Suchmaschine](https://feed.kraut.press/link/14399/17111043/426)
+- [Dokumentieren mit Künstlicher Intelligenz](https://www.wppodcast.de/podcast/dokumentieren-mit-kuenstlicher-intelligenz/)
 - [WordPress News #425 / FAIR-Wahlen, Alte WordCamps und Fehler-E-Mails](https://feed.kraut.press/link/14399/17104876/425)
-- [KI-Komponenten in WordPress](https://www.wppodcast.de/podcast/ki-komponenten-in-wordpress/)
-- [WordPress News #424 / BackWPup ist gefallen, WP 6.8.2, KI-Pläne und ein WordCamp an der Ostsee](https://feed.kraut.press/link/14399/17100763/424)
 <!-- BLOG-POST-LIST:END -->
 
 
