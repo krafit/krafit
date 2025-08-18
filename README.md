@@ -14,11 +14,11 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 ## Recent Writing 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [WordPress News #428 / Umbrüche bei GitHub und Suchen, FAIR-Wahlen und Subdomains](https://feed.kraut.press/link/14399/17121355/428)
 - [Mehr Blöcke im Core](https://www.wppodcast.de/podcast/mehr-bloecke-im-core/)
 - [WordPress News #427 / FrOSCon, perfekte Installation und das WordCamp Gdynia](https://feed.kraut.press/link/14399/17115048/427)
 - [Roadmap zu WordPress 6.9](https://www.wppodcast.de/podcast/roadmap-zu-wordpress-6-9/)
 - [WordPress News #426 / Woo-Block-Strategie, WordCamp-Analyse und eine Blog-Suchmaschine](https://feed.kraut.press/link/14399/17111043/426)
-- [Dokumentieren mit Künstlicher Intelligenz](https://www.wppodcast.de/podcast/dokumentieren-mit-kuenstlicher-intelligenz/)
 <!-- BLOG-POST-LIST:END -->
 
 
