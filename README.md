@@ -14,11 +14,11 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 ## Recent Writing 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [WordCamp US 2025](https://www.wppodcast.de/podcast/wordcamp-us-2025/)
 - [WordPress News #429 / WordPress 6.9, Hosting-Sicherheit, ein Event-Plugin und Alt-Texte](https://feed.kraut.press/link/14399/17125933/429)
 - [Event Koi – die erfrischende Event-Verwaltung](https://krautpress.de/2025/event-koi/)
 - [Gestaffelte Veröffentlichung von Plugins](https://www.wppodcast.de/podcast/gestaffelte-veroeffentlichung-von-plugins/)
 - [WordPress News #428 / Umbrüche bei GitHub und Suchen, FAIR-Wahlen und Subdomains](https://feed.kraut.press/link/14399/17121355/428)
-- [Mehr Blöcke im Core](https://www.wppodcast.de/podcast/mehr-bloecke-im-core/)
 <!-- BLOG-POST-LIST:END -->
 
 
