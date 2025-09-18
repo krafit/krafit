@@ -15,7 +15,7 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 
 <!-- BLOG-POST-LIST:START -->
 - [Neue Version, fehlende Dokumentation](https://www.wppodcast.de/podcast/neue-version-fehlende-dokumentation/)
-- [WordPress News #432 / Ein Rechts-Update, Dokumentation, Die Lade-Sequenz und Liquid Glass](https://feed.kraut.press/link/21991/17154809/trials-and-prayer)
+- [WordPress News #432 / Ein Rechts-Update, Dokumentation, Die Lade-Sequenz und Liquid Glass](https://feed.kraut.press/link/14399/17154808/432)
 - [Bilder in E-Mails](https://www.wppodcast.de/podcast/bilder-in-e-mails/)
 - [WordPress News #431 / _s, externe Editoren, mehr Blöcke und farbenblinde Designer](https://feed.kraut.press/link/14399/17139493/431)
 - [Neuer Akkordeon-Block](https://www.wppodcast.de/podcast/neuer-akkordeon-block/)
