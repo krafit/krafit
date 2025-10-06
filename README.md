@@ -14,11 +14,11 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 ## Recent Writing 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [WordPress News #435 / Multisite-Design, Blocktober, Website-Liebe und der KrautPress Website Club](https://feed.kraut.press/link/14399/17179630/435)
 - [Core Program Team](https://www.wppodcast.de/podcast/core-program-team-2/)
 - [WordPress News #434 / WordCamp Gdynia, eine Vision, dezentrale Updates und die Script-Werkstatt](https://feed.kraut.press/link/14399/17173435/434)
 - [Core Program Team](https://www.wppodcast.de/podcast/core-program-team/)
 - [Neue Version, fehlende Dokumentation](https://www.wppodcast.de/podcast/neue-version-fehlende-dokumentation/)
-- [WordPress News #432 / Ein Rechts-Update, Dokumentation, Die Lade-Sequenz und Liquid Glass](https://feed.kraut.press/link/14399/17154808/432)
 <!-- BLOG-POST-LIST:END -->
 
 
