@@ -14,11 +14,11 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 ## Recent Writing 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [WordPress News #443 / WordPress 6.9, Ärger um WP Rocket, bessere Contributor Days und der Website Club](https://feed.kraut.press/link/14399/17219883/443)
 - [WordPress News #442 / Endspurt, Datenschutz, Barrierefreiheit und Changelogs](https://feed.kraut.press/link/14399/17215706/442)
 - [WordPress News #441 / Sicherheit für WordPress, Liebe für RSS und ein Club für Websites](https://feed.kraut.press/link/14399/17210641/441)
 - [WordPress News #440 / Kollaboration, FAIR und die Lage des Ökosystems](https://feed.kraut.press/link/14399/17206272/440)
 - [WordPress News #439 / Plugin-Sicherheit, ein gesichtsloses Web, Community-Tools und das Ende des Blocktobers](https://feed.kraut.press/link/14399/17202013/439)
-- [WordPress News #438 / Erste WP 6.9 Beta, MySQL-Abgesang und Profilseiten](https://feed.kraut.press/link/14399/17194072/438)
 <!-- BLOG-POST-LIST:END -->
 
 
