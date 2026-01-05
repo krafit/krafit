@@ -14,7 +14,7 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 ## Recent Writing 📚
 
 <!-- BLOG-POST-LIST:START -->
-- [WordPress News #wordpress-7-0-ki-ueberlegungen-und-ein-jahresrueckblick / WordPress 7.0, KI-Überlegungen und ein Jahresrückblick](https://feed.kraut.press/link/14399/17247009/wordpress-7-0-ki-ueberlegungen-und-ein-jahresrueckblick)
+- [WordPress News #448 / WordPress 7.0, KI-Überlegungen und ein Jahresrückblick](https://feed.kraut.press/link/14399/17247040/448)
 - [WordPress News #447 / Das hat uns 2025 bewegt](https://feed.kraut.press/link/14399/17244871/447)
 - [WordPress News #446 / Danke für 2025](https://feed.kraut.press/link/14399/17239561/446)
 - [WordPress News #445 / Holprige E-Mails, Playground, Multisite und der Hackathon](https://feed.kraut.press/link/14399/17234023/445)
