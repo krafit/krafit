@@ -14,11 +14,11 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 ## Recent Writing 📚
 
 <!-- BLOG-POST-LIST:START -->
-- [WordPress News #449 / WordPress-Beipackzettel, Tailwind, PHP-Support und Webringe](https://feed.kraut.press/link/14399/17251479/449)
-- [WordPress News #448 / WordPress 7.0, KI-Überlegungen und ein Jahresrückblick](https://feed.kraut.press/link/14399/17247040/448)
-- [WordPress News #447 / Das hat uns 2025 bewegt](https://feed.kraut.press/link/14399/17244871/447)
-- [WordPress News #446 / Danke für 2025](https://feed.kraut.press/link/14399/17239561/446)
-- [WordPress News #445 / Holprige E-Mails, Playground, Multisite und der Hackathon](https://feed.kraut.press/link/14399/17234023/445)
+- [Zusammenarbeit mit Notizen](https://www.wppodcast.de/podcast/zusammenarbeit-mit-notizen/)
+- [WordPress 6.8.3](https://www.wppodcast.de/podcast/wordpress-6-8-3/)
+- [Core Program Team](https://www.wppodcast.de/podcast/core-program-team-2/)
+- [Core Program Team](https://www.wppodcast.de/podcast/core-program-team/)
+- [Neue Version, fehlende Dokumentation](https://www.wppodcast.de/podcast/neue-version-fehlende-dokumentation/)
 <!-- BLOG-POST-LIST:END -->
 
 
