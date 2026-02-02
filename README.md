@@ -14,11 +14,11 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 ## Recent Writing 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [WordPress News #452 / Linux plant für die Zukunft, Press This, theme.json und ein Website Club](https://feed.kraut.press/link/14399/17268189/452)
 - [WordPress News #451 / Ziele für 2026, schnelles WooCommerce, Mannheim und das WordCamp Europe](https://feed.kraut.press/link/14399/17263365/451)
 - [Auf zum WordCamp Leipzig 2026](https://krautpress.de/2026/auf-zum-wordcamp-leipzig-2026/)
 - [WordPress News #450 / Open-Source-Ehrenamt, Werkschau und das WordCamp Leipzig](https://feed.kraut.press/link/14399/17256219/450)
 - [WordPress News #449 / WordPress-Beipackzettel, Tailwind, PHP-Support und Webringe](https://feed.kraut.press/link/14399/17251479/449)
-- [WordPress News #448 / WordPress 7.0, KI-Überlegungen und ein Jahresrückblick](https://feed.kraut.press/link/14399/17247040/448)
 <!-- BLOG-POST-LIST:END -->
 
 
