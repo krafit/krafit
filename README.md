@@ -15,10 +15,10 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 
 <!-- BLOG-POST-LIST:START -->
 - [WordPress News #455 / WordPress 7.0 Beta 1, Hosting-Hinterzimmer und Volunteers beim WCEU](https://feed.kraut.press/link/14399/17281816/455)
+- [Call for Volunteers Announced for WordCamp Europe 2026 🎉](https://feed.kraut.press/link/23937/17279142/call-for-volunteers-announced-for-wordcamp-europe-2026-%f0%9f%8e%89)
 - [WordPress News #454 / Ein Business-Reset, ActivityPub-Roadmap, Barrierefreiheitserklärung und ein Backup](https://feed.kraut.press/link/14399/17277115/454)
 - [WordPress News #453 / WordPress 6.9.1, Sicherheit und ein Ausflug nach Wien](https://feed.kraut.press/link/14399/17273622/453)
 - [Das WordCamp Vienna 2026](https://krautpress.de/2026/das-wordcamp-vienna-2026/)
-- [WordPress News #452 / Linux plant für die Zukunft, Press This, theme.json und ein Website Club](https://feed.kraut.press/link/14399/17268189/452)
 <!-- BLOG-POST-LIST:END -->
 
 
