@@ -14,7 +14,7 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 ## Recent Writing 📚
 
 <!-- BLOG-POST-LIST:START -->
-- [WordPress News #vier-updates-ein-sturm-ki-und-kein-wordcamp-in-gdynia / Vier Updates, ein Sturm, KI und kein WordCamp in Gdynia](https://feed.kraut.press/link/14399/17299997/vier-updates-ein-sturm-ki-und-kein-wordcamp-in-gdynia)
+- [WordPress News #458 / Vier Updates, ein Sturm, KI und kein WordCamp in Gdynia](https://feed.kraut.press/link/14399/17300125/458)
 - [WordPress News #457 / „KI“ und langsames Wachstum, Divi 5, Blöcke mit PHP](https://feed.kraut.press/link/14399/17296069/457)
 - [WordPress News #456 / WordPress-Sicherheit, Syde, Schlag für FAIR und der Website Club](https://feed.kraut.press/link/14399/17287581/456)
 - [WordPress News #455 / WordPress 7.0 Beta 1, Hosting-Hinterzimmer und Volunteers beim WCEU](https://feed.kraut.press/link/14399/17281816/455)
