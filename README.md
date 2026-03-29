@@ -14,11 +14,11 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 ## Recent Writing 📚
 
 <!-- BLOG-POST-LIST:START -->
-- [WordPress News #459 / Kritik an Kollaboration und Open Source als Gesundheitsrisiko](https://feed.kraut.press/link/14399/17304943/459)
-- [WordPress News #458 / Vier Updates, ein Sturm, KI und kein WordCamp in Gdynia](https://feed.kraut.press/link/14399/17300125/458)
-- [WordPress News #457 / „KI“ und langsames Wachstum, Divi 5, Blöcke mit PHP](https://feed.kraut.press/link/14399/17296069/457)
-- [WordPress News #456 / WordPress-Sicherheit, Syde, Schlag für FAIR und der Website Club](https://feed.kraut.press/link/14399/17287581/456)
-- [WordPress News #455 / WordPress 7.0 Beta 1, Hosting-Hinterzimmer und Volunteers beim WCEU](https://feed.kraut.press/link/14399/17281816/455)
+- [Call for Volunteers Announced for WordCamp Europe 2026 🎉](https://feed.kraut.press/link/23937/17279142/call-for-volunteers-announced-for-wordcamp-europe-2026-%f0%9f%8e%89)
+- [Zusammenarbeit mit Notizen](https://www.wppodcast.de/podcast/zusammenarbeit-mit-notizen/)
+- [WordPress 6.8.3](https://www.wppodcast.de/podcast/wordpress-6-8-3/)
+- [Core Program Team](https://www.wppodcast.de/podcast/core-program-team-2/)
+- [Core Program Team](https://www.wppodcast.de/podcast/core-program-team/)
 <!-- BLOG-POST-LIST:END -->
 
 
