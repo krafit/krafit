@@ -14,11 +14,11 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 ## Recent Writing 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [WordPress News #461 / WordPress 7.0 später, Side-Events, Website Club](https://feed.kraut.press/link/14399/17314905/461)
 - [WordPress News #460 / Reibung für „KI“, Hackathon-Rückblick und barrierefreie Captchas](https://feed.kraut.press/link/14399/17309290/460)
 - [WordPress News #459 / Kritik an Kollaboration und Open Source als Gesundheitsrisiko](https://feed.kraut.press/link/14399/17304943/459)
 - [WordPress News #458 / Vier Updates, ein Sturm, KI und kein WordCamp in Gdynia](https://feed.kraut.press/link/14399/17300125/458)
 - [WordPress News #457 / „KI“ und langsames Wachstum, Divi 5, Blöcke mit PHP](https://feed.kraut.press/link/14399/17296069/457)
-- [WordPress News #456 / WordPress-Sicherheit, Syde, Schlag für FAIR und der Website Club](https://feed.kraut.press/link/14399/17287581/456)
 <!-- BLOG-POST-LIST:END -->
 
 
