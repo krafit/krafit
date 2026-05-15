@@ -14,11 +14,11 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 ## Recent Writing 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [WordCamp Europe 2026 Opens Registration for Workshops](https://feed.kraut.press/link/23937/17338691/wordcamp-europe-2026-opens-registration-for-workshops)
 - [WordPress News #466 / Änderungen für WordPress 7, Barrierefreiheit und keine .de-Domains](https://feed.kraut.press/link/14399/17338114/466)
 - [What happens at Europa-Park should not stay at Europa-Park](https://simon.blog/2026/what-happens-at-europa-park/)
 - [WordPress News #465 / Desktop Mode, kein GitHub aber ein Website Club](https://feed.kraut.press/link/14399/17331481/465)
 - [WordPress News #464 / WordPress 7.0, tolle Domains, digitales Erbe und Vorträge](https://feed.kraut.press/link/14399/17326032/464)
-- [WordPress News #463 / Eine Axt, WCEU-Programm und der Tod](https://feed.kraut.press/link/14399/17322110/463)
 <!-- BLOG-POST-LIST:END -->
 
 
