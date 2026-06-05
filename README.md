@@ -14,11 +14,11 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 ## Recent Writing 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [Early stats](https://feed.kraut.press/link/23937/17354550/early-stats)
 - [WordPress News #469 / Endspurt zum WordCamp Europe, Geburtstagsgrüße, eine Umfrage und der liebe Marktanteil](https://feed.kraut.press/link/14399/17351956/469)
 - [WordCamp Europe Opens Call for Host City Applications for 2028](https://feed.kraut.press/link/23937/17349536/wceu-call-for-host-city-2028)
 - [WordPress News #467 / Beitragsbilder finden, clamp(), die Prompt API und WCEU Anmeldungen](https://feed.kraut.press/link/14399/17343194/467)
 - [WordCamp Europe 2026 Opens Registration for Workshops](https://feed.kraut.press/link/23937/17338691/wordcamp-europe-2026-opens-registration-for-workshops)
-- [WordPress News #466 / Änderungen für WordPress 7, Barrierefreiheit und keine .de-Domains](https://feed.kraut.press/link/14399/17338114/466)
 <!-- BLOG-POST-LIST:END -->
 
 
