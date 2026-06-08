@@ -14,11 +14,11 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 ## Recent Writing 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [WordPress News #470 / Krakau, Málaga und die Zukunft des Webs](https://feed.kraut.press/link/14399/17356037/470)
 - [WordCamp Europe 2027 – Malaga](https://krautpress.de/2026/wordcamp-europe-2027-malaga/)
 - [Colliding worlds](https://feed.kraut.press/link/23937/17354555/colliding-worlds)
 - [Early stats](https://feed.kraut.press/link/23937/17354550/early-stats)
 - [WordPress News #469 / Endspurt zum WordCamp Europe, Geburtstagsgrüße, eine Umfrage und der liebe Marktanteil](https://feed.kraut.press/link/14399/17351956/469)
-- [WordCamp Europe Opens Call for Host City Applications for 2028](https://feed.kraut.press/link/23937/17349536/wceu-call-for-host-city-2028)
 <!-- BLOG-POST-LIST:END -->
 
 
