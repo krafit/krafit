@@ -14,11 +14,11 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 ## Recent Writing 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [WordPress News #472 / Vorzeichen für WordPress 7.1, alte Malware, Plugin-Arbeit und das WordCamp Mannheim](https://feed.kraut.press/link/14399/17365110/472)
 - [WordPress News #471 / Auenland, PHP-Blöcke, WCEU-Nachschlag und gute Events](https://feed.kraut.press/link/14399/17361227/471)
 - [Europe’s beating heart](https://simon.blog/2026/europes-beating-heart/)
 - [WordPress News #470 / Krakau, Málaga und die Zukunft des Webs](https://feed.kraut.press/link/14399/17356037/470)
 - [WordCamp Europe 2027 – Malaga](https://krautpress.de/2026/wordcamp-europe-2027-malaga/)
-- [Colliding worlds](https://feed.kraut.press/link/23937/17354555/colliding-worlds)
 <!-- BLOG-POST-LIST:END -->
 
 
