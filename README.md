@@ -14,11 +14,11 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 ## Recent Writing 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [WordPress News #477 / Lock-In, Design Tokens und Update-Probleme](https://feed.kraut.press/link/14399/17387797/477)
 - [WordPress News #476 / Dringendes Sicherheits-Update, WooCommerce, WordCamp Switzerland und der Website Club](https://feed.kraut.press/link/14399/17383184/476)
 - [WordPress News #475 / WordPress 7.0.1, Gefühle zu „KI“, WordCamps im Kalender und ein Meetup.com-Nachfolger](https://feed.kraut.press/link/14399/17379370/475)
 - [WordPress News #474 / WordCamp Mannheim, Themes, Elementor und Antispam Bee](https://feed.kraut.press/link/14399/17373693/474)
 - [WordPress News #473 / Warten auf Updates, ActivityPub-Links, Statify 2.0](https://feed.kraut.press/link/14399/17369581/473)
-- [WordPress News #472 / Vorzeichen für WordPress 7.1, alte Malware, Plugin-Arbeit und das WordCamp Mannheim](https://feed.kraut.press/link/14399/17365110/472)
 <!-- BLOG-POST-LIST:END -->
 
 
