@@ -14,11 +14,11 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 ## Recent Writing 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [WordPress News #482 / Schnelle Queries, individuelle Icons und getestete Barrierefreiheit](https://feed.kraut.press/link/14399/17435373/482)
 - [WordPress News #481 / WordPress 7.1, WP Rocket und eine Browser-Erweiterung](https://feed.kraut.press/link/14399/17427215/481)
 - [WordPress News #480 / Ein weiteres Sicherheits-Update, WP 7.1, „KI“-Kennzeichnungen, Bloggen](https://feed.kraut.press/link/14399/17420635/480)
 - [WordPress News #479 / Ein Security-Update, ein Schlag ins Gesicht und ein Spaß](https://feed.kraut.press/link/14399/17411001/479)
 - [WordPress News #478 / Experimentelles Plugin, Tracking-Plugin, Barrierefreiheit und Datenschutz](https://feed.kraut.press/link/14399/17400456/478)
-- [WordPress News #477 / Lock-In, Design Tokens und Update-Probleme](https://feed.kraut.press/link/14399/17387797/477)
 <!-- BLOG-POST-LIST:END -->
 
 
