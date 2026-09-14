@@ -14,11 +14,11 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 ## Recent Writing 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [WordPress News #484 / Automattic mit und ohne Matt, hübsche Core-Updates und individuelle Icons](https://feed.kraut.press/link/14399/17461335/484)
 - [WordPress News #483 / Neues Buch, RankMath in den Nesseln, WordCamp Switzerland und ein Website Club](https://feed.kraut.press/link/14399/17441666/483)
 - [WordPress Authors²](https://simon.blog/2026/wordpress-authors%c2%b2/)
 - [WordPress News #482 / Schnelle Queries, individuelle Icons und getestete Barrierefreiheit](https://feed.kraut.press/link/14399/17435373/482)
 - [WordPress News #481 / WordPress 7.1, WP Rocket und eine Browser-Erweiterung](https://feed.kraut.press/link/14399/17427215/481)
-- [WordPress News #480 / Ein weiteres Sicherheits-Update, WP 7.1, „KI“-Kennzeichnungen, Bloggen](https://feed.kraut.press/link/14399/17420635/480)
 <!-- BLOG-POST-LIST:END -->
 
 
