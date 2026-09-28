@@ -14,11 +14,11 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 ## Recent Writing 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [WordPress News #486 / WordPress weiterhin sicher, eine Kartellrechtsklage und die Blogroll](https://feed.kraut.press/link/14399/17476017/486)
 - [WordPress News #485 / WordPress 7.1.1, ein neues Standard-Theme und warum eigentlich noch WordPress?](https://feed.kraut.press/link/14399/17468274/485)
 - [WordPress News #484 / Automattic mit und ohne Matt, hübsche Core-Updates und individuelle Icons](https://feed.kraut.press/link/14399/17461335/484)
 - [WordPress News #483 / Neues Buch, RankMath in den Nesseln, WordCamp Switzerland und ein Website Club](https://feed.kraut.press/link/14399/17441666/483)
 - [WordPress Authors²](https://simon.blog/2026/wordpress-authors%c2%b2/)
-- [WordPress News #482 / Schnelle Queries, individuelle Icons und getestete Barrierefreiheit](https://feed.kraut.press/link/14399/17435373/482)
 <!-- BLOG-POST-LIST:END -->
 
 
