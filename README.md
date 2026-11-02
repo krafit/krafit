@@ -14,11 +14,11 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 ## Recent Writing 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [Visiting Vilnius](https://simon.blog/2026/visiting-vilnius/)
 - [WordPress News #491 / Neues Design, CSS-Tricks, WordPress 7.1.4 und der Website Club](https://feed.kraut.press/link/14399/17513323/491)
 - [WordPress 7.1.4 is here](https://feed.kraut.press/link/23937/17510171/wordpress-7-1-4)
 - [WordPress News #490 / Sehr viele Sicherheitslücken, Zwei-Faktor-Authentifizierung und ein Herz für Blogs](https://feed.kraut.press/link/14399/17506760/490)
 - [Kritische Sicherheitslücken in PHP, das ist zu tun](https://krautpress.de/2026/kritische-sicherheitsluecken-in-php-das-ist-zu-tun/)
-- [WordPress News #489 / Elmastudios neues Theme, WooCommerce-Zahlen, Matt und Barrierefreiheit und die CMS Conf im November](https://feed.kraut.press/link/14399/17500552/489)
 <!-- BLOG-POST-LIST:END -->
 
 
