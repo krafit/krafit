@@ -14,11 +14,11 @@ If you're from Germany and interested in WordPress, you might know my weekly new
 ## Recent Writing 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [WordPress News #493 / Secrets API, Ärger mit Strato und das Fediverse-Creator-Tag](https://feed.kraut.press/link/14399/17525401/493)
 - [WordPress News #492 / Zufällige Inhalte, Theme-Updates, Plugin-Updates und ein Geburtstag](https://feed.kraut.press/link/14399/17518216/492)
 - [Visiting Vilnius](https://simon.blog/2026/visiting-vilnius/)
 - [WordPress News #491 / Neues Design, CSS-Tricks, WordPress 7.1.4 und der Website Club](https://feed.kraut.press/link/14399/17513323/491)
 - [WordPress 7.1.4 is here](https://feed.kraut.press/link/23937/17510171/wordpress-7-1-4)
-- [WordPress News #490 / Sehr viele Sicherheitslücken, Zwei-Faktor-Authentifizierung und ein Herz für Blogs](https://feed.kraut.press/link/14399/17506760/490)
 <!-- BLOG-POST-LIST:END -->
 
 
